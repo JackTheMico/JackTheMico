@@ -15,4 +15,11 @@ I live in China with my wife and four lovely cats.
 ![Jack Deng's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical)
 
 <!--START_SECTION:waka-->
+```text
+sh         36 mins         █████████▓░░░░░░░░░░░░░░░   38.11 % 
+INI        11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Markdown   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Bash       11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Other      10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+```
 <!--END_SECTION:waka-->
