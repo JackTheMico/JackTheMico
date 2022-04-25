@@ -1,5 +1,5 @@
 ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
-# 憨--------------------------傻---------------------------痴-------------------------------呆
+# 憨------------------------------傻-------------------------------痴----------------------------------呆
 ## Hello pal 😄
 I'm a cat lover and of course a coder. I have interests on Python, Go and web hacking. 
 I live in China with my wife and four lovely cats.
