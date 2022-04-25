@@ -13,3 +13,6 @@ I live in China with my wife and four lovely cats.
 
 ![Jack Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical)
 ![Jack Deng's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
