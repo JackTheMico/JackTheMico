@@ -1,5 +1,5 @@
 """
-   Copyright 2020-2022 Yufan You <https://github.com/ouuan>
+   Copyright 2020 Yufan You <https://github.com/ouuan>
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -15,7 +15,6 @@
 """
 
 import requests
-import json
 import sys
 import re
 
@@ -26,69 +25,29 @@ if __name__ == "__main__":
     readmePath = sys.argv[3]
 
     headers = {
+        "Accept": "application/vnd.github.v3+json",
         "Authorization": f"token {token}"
     }
 
     followers = []
-    cursor = None
 
-    while True:
-        query = f'''
-query {{
-    user(login: "{handle}") {{
-        followers(first: 100{f', after: "{cursor}"' if cursor else ''}) {{
-            pageInfo{{
-                endCursor
-                hasNextPage
-            }}
-            nodes {{
-                login
-                name
-                databaseId
-                following {{
-                    totalCount
-                }}
-                repositories(first: 3, isFork: false, orderBy: {{
-                    field: STARGAZERS,
-                    direction: DESC
-                }}) {{
-                    totalCount
-                    nodes {{
-                        stargazerCount
-                    }}
-                }}
-                followers {{
-                    totalCount
-                }}
-            }}
-        }}
-    }}
-}}
-'''
-        response = requests.post(f"https://api.github.com/graphql", json.dumps({ "query": query }), headers = headers)
-        res = response.json()["data"]["user"]["followers"]
-        for follower in res["nodes"]:
-            following = follower["following"]["totalCount"]
-            repoCount = follower["repositories"]["totalCount"]
-            login = follower["login"]
-            name = follower["name"]
-            id = follower["databaseId"]
-            followerNumber = follower["followers"]["totalCount"]
-            thirdStars = follower["repositories"]["nodes"][2]["stargazerCount"] if repoCount >= 3 else 0
-            if (following > repoCount * 50 and thirdStars < 30) or thirdStars < 5:
-                print(f"Skipped: https://github.com/{login} with {followerNumber} followers and {following} following")
-                continue
-            followers.append((followerNumber, login, id, name if name else login))
-            print(followers[-1])
-        if not res["pageInfo"]["hasNextPage"]:
+    for i in range(1, 100000):
+        page = requests.get(f"https://api.github.com/users/{handle}/followers?page={i}&per_page=100", headers = headers).json()
+        if len(page) == 0:
             break
-        cursor = res["pageInfo"]["endCursor"]
+        for follower in page:
+            info = requests.get(follower["url"], headers = headers).json()
+            if info["following"] > 5000 and info["public_repos"] < 50:
+                print(f"Ignored: https://github.com/{info['login']} with {info['followers']} followers and {info['following']} following")
+                continue
+            followers.append((info["followers"], info["login"], info["id"], info["name"] if info["name"] else info["login"]))
+            print(followers[-1])
 
     followers.sort(reverse = True)
 
     html = "<table>\n"
 
-    for i in range(min(len(followers), 21)):
+    for i in range(min(len(followers), 14)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
