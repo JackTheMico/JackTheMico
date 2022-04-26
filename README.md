@@ -15,6 +15,8 @@ I live in China with my wife and four lovely cats.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 [![LunarVim](https://img.shields.io/badge/-LunarVim-purple)](https://www.lunarvim.org/)
 
+
+## My top-followers
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -37,6 +39,7 @@ I live in China with my wife and four lovely cats.
 <!--END_SECTION:top-followers-->
 
 
+## My Status
 ![Jack Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical)
 ![Jack Deng's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical)
 
