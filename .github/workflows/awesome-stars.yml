@@ -19,7 +19,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install starred
-    - name: update repo
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username JackTheMico --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+    - name: update starred.md
+      run: starred --username JackTheMico --sort > starred.md
+    - uses: EndBug/add-and-commit@v9  
+      with:
+        add: 'starred.md'
+        committer_name: GitHub Actions
+        committer_email: actions@github.com
+        message: 'update starred.md'
+        push: true
