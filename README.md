@@ -1,6 +1,11 @@
 ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
 # 憨------------------------------傻-------------------------------痴----------------------------------呆
-## Hello pal 😄
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
+</p>
+
+## Hello pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm a cat lover and of course a coder. I have interests on Python, Go and web hacking. 
 I live in China with my wife and four lovely cats.
 
