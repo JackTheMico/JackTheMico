@@ -1,5 +1,5 @@
 ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
-# 憨☝------------------------傻☝----------------------------痴☝---------------------------呆☝
+# 憨☝----------My----------傻☝----------Four---------痴☝----------Cats----------呆☝
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
@@ -27,6 +27,10 @@ Check out [my awesome stars list](./starred.md)
 - [Python 日志常用配置代码记录](https://JackTheMico.github.io/posts/python-logging/)
 - [关于我](https://JackTheMico.github.io/about/desc/)
 <!-- BLOG-POST-LIST:END -->
+
+<a href="https://www.buymeacoffee.com/JackDeng" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" width="240" height="70"/>
+</a>
 
 
 ### My top-followers
