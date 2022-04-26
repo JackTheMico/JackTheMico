@@ -23,18 +23,32 @@ Check out [my awesome starred list](./starred.md)
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/KevinHock">
-        <img src="https://avatars2.githubusercontent.com/u/3076393" width="100px;" alt="KevinHock"/>
-      </a>
-      <br />
-      <a href="https://github.com/KevinHock">KevinHock</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/pengliheng">
         <img src="https://avatars2.githubusercontent.com/u/14355994" width="100px;" alt="pengliheng"/>
       </a>
       <br />
       <a href="https://github.com/pengliheng">admin_dev</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mishin">
+        <img src="https://avatars2.githubusercontent.com/u/2354218" width="100px;" alt="mishin"/>
+      </a>
+      <br />
+      <a href="https://github.com/mishin">Nikolay Mishin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/684201zan">
+        <img src="https://avatars2.githubusercontent.com/u/21252908" width="100px;" alt="684201zan"/>
+      </a>
+      <br />
+      <a href="https://github.com/684201zan">奔走的小毛驴</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chance395">
+        <img src="https://avatars2.githubusercontent.com/u/19421270" width="100px;" alt="chance395"/>
+      </a>
+      <br />
+      <a href="https://github.com/chance395">leo.li</a>
     </td>
   </tr>
 </table>
