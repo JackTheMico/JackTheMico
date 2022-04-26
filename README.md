@@ -19,6 +19,13 @@ Check out [my awesome stars list](./starred.md)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Basics](https://JackTheMico.github.io/posts/windows-hacking/)
+- [John The Ripper Learning](https://JackTheMico.github.io/posts/john/)
+- [我的第一把客制化机械键盘，Alpha28](https://JackTheMico.github.io/posts/alpha28/)
+- [ELK报错日志与后续优化](https://JackTheMico.github.io/posts/elk%E6%8A%A5%E9%94%99%E6%97%A5%E5%BF%97%E4%B8%8E%E5%90%8E%E7%BB%AD%E4%BC%98%E5%8C%96/)
+- [小熊的靓照](https://JackTheMico.github.io/posts/xnxs/)
+- [Python 日志常用配置代码记录](https://JackTheMico.github.io/posts/python-logging/)
+- [关于我](https://JackTheMico.github.io/about/desc/)
 <!-- BLOG-POST-LIST:END -->
 
 
