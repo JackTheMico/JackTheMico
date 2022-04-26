@@ -16,6 +16,24 @@ I live in China with my wife and four lovely cats.
 [![LunarVim](https://img.shields.io/badge/-LunarVim-purple)](https://www.lunarvim.org/)
 
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KevinHock">
+        <img src="https://avatars2.githubusercontent.com/u/3076393" width="100px;" alt="KevinHock"/>
+      </a>
+      <br />
+      <a href="https://github.com/KevinHock">KevinHock</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pengliheng">
+        <img src="https://avatars2.githubusercontent.com/u/14355994" width="100px;" alt="pengliheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/pengliheng">admin_dev</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 
