@@ -1,5 +1,5 @@
 ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
-# 憨------------------------------傻-------------------------------痴----------------------------------呆
+# 憨☝------------------------傻☝----------------------------痴☝---------------------------呆☝
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
@@ -15,7 +15,11 @@ I live in China with my wife and four lovely cats.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 [![LunarVim](https://img.shields.io/badge/-LunarVim-purple)](https://www.lunarvim.org/)
 
-Check out [my awesome starred list](./starred.md)
+Check out [my awesome stars list](./starred.md)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### My top-followers
