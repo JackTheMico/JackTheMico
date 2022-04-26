@@ -1,5 +1,5 @@
 ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
-# 憨☝----------My----------傻☝----------Four---------痴☝----------Cats----------呆☝
+# 憨☝----------My----------傻☝-------Four----痴☝----Cats----呆☝
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
@@ -31,6 +31,8 @@ Check out [my awesome stars list](./starred.md)
 <a href="https://www.buymeacoffee.com/JackDeng" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" width="240" height="70"/>
 </a>
+
+<img src="./reward/alipay.jpg" width="220" height="300"/>
 
 
 ### My top-followers
@@ -74,6 +76,8 @@ Check out [my awesome stars list](./starred.md)
 ![Jack Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical)
 ![Jack Deng's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical)
 
+
+### My Time
 <!--START_SECTION:waka-->
 ```text
 YAML       3 hrs           ███████░░░░░░░░░░░░░░░░░░   28.37 % 
