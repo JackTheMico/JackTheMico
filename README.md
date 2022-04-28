@@ -1,5 +1,5 @@
 ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
-# 憨☝----------My----------傻☝-------Four----痴☝----Cats----呆☝
+# 憨☝----------My----------傻☝-------Four-----痴☝-----Cats-----呆☝
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
