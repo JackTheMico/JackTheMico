@@ -269,7 +269,6 @@
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
 - [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 Hugo theme named Dream.
 - [wangweianger/APubPlat](https://github.com/wangweianger/APubPlat) - Devops自动化部署、堡垒机开源项目、Web Terminal
-- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [ipfs/awesome-ipfs](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [Zen-CODE/kivybits](https://github.com/Zen-CODE/kivybits) - Kivy bits and pieces
@@ -611,6 +610,7 @@
 - [Hnfull/Intensio-Obfuscator](https://github.com/Hnfull/Intensio-Obfuscator) - Obfuscate a python code 2.x and 3.x
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [robotframework/RIDE](https://github.com/robotframework/RIDE) - Test data editor for Robot Framework
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [taraslayshchuk/es2csv](https://github.com/taraslayshchuk/es2csv) - Export from an Elasticsearch into a CSV file
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
@@ -962,6 +962,7 @@
 
 ## Rust 
 
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [nccgroup/dirble](https://github.com/nccgroup/dirble) - Fast directory scanning and scraping tool
