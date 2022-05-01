@@ -59,6 +59,7 @@
 
 ## C 
 
+- [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
 - [reversebias/mitosis](https://github.com/reversebias/mitosis) - Firmware for nordic MCUs used in the Mitosis Keyboard
 - [joric/mitosis](https://github.com/joric/mitosis) - My fork of Mitosis firmware with added bluetooth capability (see devel branch)
@@ -191,7 +192,6 @@
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [dash-docs-el/counsel-dash](https://github.com/dash-docs-el/counsel-dash) - Browse Dash docsets using Ivy
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [tumashu/chinese-yasdcv](https://github.com/tumashu/chinese-yasdcv) - 一个简单的sdcv字典程序的emacs前端。
 - [arifer612/pippel](https://github.com/arifer612/pippel) - Emacs frontend to python package manager pip
 - [xuchunyang/youdao-dictionary.el](https://github.com/xuchunyang/youdao-dictionary.el) - Youdao Dictionary(有道词典) interface for Emacs
@@ -367,6 +367,7 @@
 
 ## Jupyter Notebook 
 
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - 验证码识别
 - [LinXueyuanStdio/PythonDataMining](https://github.com/LinXueyuanStdio/PythonDataMining) - :notebook_with_decorative_cover: 你的时间很宝贵！10分钟速通《Python数据挖掘与实战》 书+笔记+代码
@@ -395,6 +396,7 @@
 
 ## Lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 
 ## Makefile 
@@ -463,6 +465,7 @@
 
 ## Others 
 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [babarrett/mitosis-docs](https://github.com/babarrett/mitosis-docs) - Read me and illustrations/images for info about, and build instructions for Mitosis wireless keyboard.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [pen4uin/bug-bounty-writeups](https://github.com/pen4uin/bug-bounty-writeups) - bug bounty writeups
@@ -873,6 +876,7 @@
 - [alphardex/looter](https://github.com/alphardex/looter) - Web-Scraping for Humans!
 - [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 - [eugeniy/pytest-tornado](https://github.com/eugeniy/pytest-tornado) - A py.test plugin providing fixtures and markers to simplify testing of asynchronous tornado applications.
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
 - [Introduction-to-Tornado/Introduction-to-Tornado](https://github.com/Introduction-to-Tornado/Introduction-to-Tornado) - This is the sample code for the Introduction to Tornado book, published by O'Reilly Media.
 - [foutaise/texttable](https://github.com/foutaise/texttable) - Python module to create simple ASCII tables
@@ -962,6 +966,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
