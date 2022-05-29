@@ -605,6 +605,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [libkeepass/pykeepass](https://github.com/libkeepass/pykeepass) - Python library to interact with keepass databases (supports KDBX3 and KDBX4)
 - [firecat53/keepmenu](https://github.com/firecat53/keepmenu) - Dmenu/Rofi frontend for Keepass databases
