@@ -17,8 +17,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install starred
     - name: update starred.md
-      run: starred --username JackTheMico --sort > starred.md
-    - uses: EndBug/add-and-commit@v9  
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: starred --username JackTheMico --token ${GITHUB_TOKEN} --sort > starred.md
+    - uses: EndBug/add-and-commit@v9
       with:
         add: 'starred.md'
         committer_name: GitHub Actions
