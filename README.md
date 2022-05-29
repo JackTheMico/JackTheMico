@@ -1,23 +1,19 @@
-![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
-# 憨☝----------My----------傻☝-------Four-----痴☝-----Cats-----呆☝
 <!-- visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
 </p>
 
-## Hello pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a cat lover and of course a coder. I have interests on Python, Go and web hacking. 
-I live in China with my wife and four lovely cats.
-
+#### Hello pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- I'm a cat lover and of course a coder. I have interests on Python, Go and web hacking. 
+- I live in China with my wife and four lovely cats.
 - I use daily
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 [![LunarVim](https://img.shields.io/badge/-LunarVim-purple)](https://www.lunarvim.org/)
+- Check out [my awesome stars list](./starred.md)
 
-Check out [my awesome stars list](./starred.md)
-
-## Blog posts
+#### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Windows Basics](https://JackTheMico.github.io/posts/windows-hacking/)
 - [John The Ripper Learning](https://JackTheMico.github.io/posts/john/)
@@ -28,14 +24,12 @@ Check out [my awesome stars list](./starred.md)
 - [关于我](https://JackTheMico.github.io/about/desc/)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://www.buymeacoffee.com/JackDeng" target="_blank" rel="noreferrer nofollow">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" width="240" height="70"/>
-</a>
-
-<img src="./reward/alipay.jpg" width="220" height="300"/>
+#### Connect with me 
 
 
-### My top-followers
+
+<details>
+  <summary><b>🤗&nbsp;&nbsp;My&nbsp;followers</b></summary>
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
@@ -71,13 +65,17 @@ Check out [my awesome stars list](./starred.md)
 </table>
 <!--END_SECTION:top-followers-->
 
+</details>
 
-### My Status
+<details>
+  <summary><b>✨&nbsp;&nbsp;My&nbsp;Status</b></summary>
+
 ![Jack Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical)
 ![Jack Deng's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical)
+</details>
 
-
-### My Time
+<details>
+  <summary><b>⏳&nbsp;&nbsp;My&nbsp;Time</b></summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -115,3 +113,20 @@ VS Code                  14 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  Last Updated on 28/05/2022 19:12:27 UTC
 <!--END_SECTION:waka-->
+</details>
+
+<details>
+  <summary><b>☕&nbsp;&nbsp;Buy&nbsp;Me&nbsp;A&nbsp;Coffle</b></summary>
+
+  <a href="https://www.buymeacoffee.com/JackDeng" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" width="240" height="70"/>
+  </a>
+  
+  <img src="./reward/alipay.jpg" width="220" height="300"/>
+</details>
+
+<details>
+  <summary><b>😸&nbsp;&nbsp;My&nbsp;Lovely&nbsp;Four&nbsp;Cats</b></summary>
+  
+  ![My four cats](https://raw.githubusercontent.com/JackTheMico/JackTheMico/main/background.jpg)
+</details>
