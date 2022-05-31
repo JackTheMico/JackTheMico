@@ -3,7 +3,10 @@
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
 </p>
 
-#### Hello pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
+
 - I'm a cat lover and of course a coder. I have interests on Python, Go and web hacking. 
 - I live in China with my wife and four lovely cats.
 - I use daily
@@ -13,7 +16,7 @@
 [![LunarVim](https://img.shields.io/badge/-LunarVim-purple)](https://www.lunarvim.org/)
 - Check out [my awesome stars list](./starred.md)
 
-#### Latest Blog Posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Windows Basics](https://JackTheMico.github.io/posts/windows-hacking/)
 - [John The Ripper Learning](https://JackTheMico.github.io/posts/john/)
@@ -24,7 +27,7 @@
 - [关于我](https://JackTheMico.github.io/about/desc/)
 <!-- BLOG-POST-LIST:END -->
 
-#### Connect with me 
+### Connect with me 
 
 
 
@@ -67,12 +70,10 @@
 
 </details>
 
-<details>
-  <summary><b>✨&nbsp;&nbsp;My&nbsp;Status</b></summary>
+<!-- <details> -->
+<!--   <summary><b>✨&nbsp;&nbsp;My&nbsp;Status</b></summary> -->
 
-![Jack Deng's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical)
-![Jack Deng's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical)
-</details>
+<!-- </details> -->
 
 <details>
   <summary><b>⏳&nbsp;&nbsp;My&nbsp;Time</b></summary>
