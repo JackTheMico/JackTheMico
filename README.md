@@ -4,8 +4,14 @@
 </p>
 
 ### Hello pal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
+<div>
+  <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
+  </div>
+  <div>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
+  </div>
+</div>
 
 - I'm a cat lover and of course a coder. I have interests on Python, Go and web hacking. 
 - I live in China with my wife and four lovely cats.
