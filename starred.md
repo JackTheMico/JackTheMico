@@ -610,6 +610,7 @@
 
 ## Python 
 
+- [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
