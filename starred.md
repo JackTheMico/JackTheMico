@@ -626,6 +626,8 @@
 
 ## Python 
 
+- [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
+- [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy) - 免费的Clash/V2Ray订阅(Free Clash & V2Ray Subscribe)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
@@ -953,7 +955,6 @@
 - [hhstore/annotated-py-asyncio](https://github.com/hhstore/annotated-py-asyncio) - (已废弃) 项目内容已迁移到: https://github.com/hhstore/annotated-py-projects
 - [miguelgrinberg/Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
 - [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
-- [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
 - [wtforms/flask-wtf](https://github.com/wtforms/flask-wtf) - Simple integration of Flask and WTForms, including CSRF, file upload and Recaptcha integration.
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
 - [postrational/rest_api_demo](https://github.com/postrational/rest_api_demo) - Boilerplate code for a RESTful API based on Flask-RESTPlus
@@ -1149,6 +1150,7 @@
 
 ## TypeScript 
 
+- [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
