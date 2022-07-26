@@ -82,6 +82,13 @@
       <a href="https://github.com/684201zan">奔走的小毛驴</a>
     </td>
     <td align="center">
+      <a href="https://github.com/minmoong">
+        <img src="https://avatars2.githubusercontent.com/u/62737839" width="100px;" alt="minmoong"/>
+      </a>
+      <br />
+      <a href="https://github.com/minmoong">minmoong</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/chance395">
         <img src="https://avatars2.githubusercontent.com/u/19421270" width="100px;" alt="chance395"/>
       </a>
