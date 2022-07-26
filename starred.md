@@ -515,6 +515,7 @@
 
 ## Others 
 
+- [oslook/clash-freenode](https://github.com/oslook/clash-freenode) - 🔥[Clash Config] [Free Node Subscribe]订阅地址，免费节点，定期更新，一键订阅，科学上网🚀。
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [imliubo/M5Pi](https://github.com/imliubo/M5Pi) - M5Pi is an open source Linux embedded development board, using Allwinner F1C200s CPU, and has a beautiful shell.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1150,6 +1151,7 @@
 
 ## TypeScript 
 
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
