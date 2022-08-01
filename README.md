@@ -75,6 +75,13 @@
       <a href="https://github.com/mishin">Nikolay Mishin</a>
     </td>
     <td align="center">
+      <a href="https://github.com/linzo21">
+        <img src="https://avatars2.githubusercontent.com/u/77612783" width="100px;" alt="linzo21"/>
+      </a>
+      <br />
+      <a href="https://github.com/linzo21">linzo21</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/684201zan">
         <img src="https://avatars2.githubusercontent.com/u/21252908" width="100px;" alt="684201zan"/>
       </a>
