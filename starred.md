@@ -63,6 +63,7 @@
 
 ## C 
 
+- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) - 
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [yumagulovrn/Adafruit_nRF52_Bootloader](https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
@@ -225,7 +226,7 @@
 
 ## Go 
 
-- [hktalent/scan4all](https://github.com/hktalent/scan4all) - Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
+- [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 21 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
