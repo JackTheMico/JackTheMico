@@ -637,6 +637,10 @@
 
 ## Python 
 
+- [flytrap/vnpy_baostock](https://github.com/flytrap/vnpy_baostock) - 基于baostock模块获取股票数据的vnpy插件
+- [StilesZ/vnpy_jqdata](https://github.com/StilesZ/vnpy_jqdata) - 
+- [vnpy/vnpy_datamanager](https://github.com/vnpy/vnpy_datamanager) - VeighNa框架的数据管理模块
+- [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
@@ -688,7 +692,7 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
-- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
