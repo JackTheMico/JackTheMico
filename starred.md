@@ -525,9 +525,10 @@
 
 ## Others 
 
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 - [kivymd/KivyMDBuilder](https://github.com/kivymd/KivyMDBuilder) - Drag and drop components, and turn designs into real application screens in minutes instead of hours. Take advantage of the various widgets and their properties to build elaborate and beautiful apps.
-- [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - Clash Config & Free Node Subscribe: 订阅地址，免费节点，定期更新，一键订阅，科学上网
+- [openRunner/clash-freenode](https://github.com/openRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [imliubo/M5Pi](https://github.com/imliubo/M5Pi) - M5Pi is an open source Linux embedded development board, using Allwinner F1C200s CPU, and has a beautiful shell.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -639,6 +640,8 @@
 
 ## Python 
 
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
+- [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin
 - [flytrap/vnpy_baostock](https://github.com/flytrap/vnpy_baostock) - 基于baostock模块获取股票数据的vnpy插件
 - [StilesZ/vnpy_jqdata](https://github.com/StilesZ/vnpy_jqdata) - 
 - [vnpy/vnpy_datamanager](https://github.com/vnpy/vnpy_datamanager) - VeighNa框架的数据管理模块
