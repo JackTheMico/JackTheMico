@@ -640,6 +640,7 @@
 
 ## Python 
 
+- [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 - [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin
 - [flytrap/vnpy_baostock](https://github.com/flytrap/vnpy_baostock) - 基于baostock模块获取股票数据的vnpy插件
