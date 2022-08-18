@@ -33,7 +33,6 @@
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
-- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -312,7 +311,7 @@
 - [fguby/Electron-elf](https://github.com/fguby/Electron-elf) - 使用electron和live2D开发的类似桌面精灵的应用（A desktop application developed using electron and live2D）
 - [M4cs/BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [qiyeboy/SpiderBook](https://github.com/qiyeboy/SpiderBook) - &lt;&lt;python爬虫开发与项目实战&gt;&gt;书籍配套源码和说明
-- [pingao777/2ndhand_house](https://github.com/pingao777/2ndhand_house) - 北京二手房价数据分析
+- [apbyte/2ndhand_house](https://github.com/apbyte/2ndhand_house) - 北京二手房价数据分析
 
 ## Handlebars 
 
@@ -519,12 +518,10 @@
 - [WXGBridgeQ/WXGSlideMenuDemo](https://github.com/WXGBridgeQ/WXGSlideMenuDemo) - 自己写的一个简单实现侧拉菜单的小demo
 - [XinStar1/AZXEmailTextField](https://github.com/XinStar1/AZXEmailTextField) - 类似微博的邮箱下拉关联提示textField，一行代码搞定！
 
-## Objective-C++ 
-
-- [facebookarchive/AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit) - Smooth asynchronous user interfaces for iOS apps.
-
 ## Others 
 
+- [python-ruia/awesome-ruia](https://github.com/python-ruia/awesome-ruia) - A list of awesome project for Ruia
+- [QuantNi/Quant-Report](https://github.com/QuantNi/Quant-Report) - 
 - [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
 - [kivymd/KivyMDBuilder](https://github.com/kivymd/KivyMDBuilder) - Drag and drop components, and turn designs into real application screens in minutes instead of hours. Take advantage of the various widgets and their properties to build elaborate and beautiful apps.
@@ -640,6 +637,9 @@
 
 ## Python 
 
+- [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
+- [hhstore/annotated-py-projects](https://github.com/hhstore/annotated-py-projects) - flask/sanic/asyncio/bottle/webpy 等源码注解合集
+- [JoinQuant/jqfactor_analyzer](https://github.com/JoinQuant/jqfactor_analyzer) - 聚宽单因子分析工具
 - [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 - [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin
@@ -975,7 +975,6 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [eastossifrage/sql_to_sqlalchemy](https://github.com/eastossifrage/sql_to_sqlalchemy) - 本教程是为了展现 sql 原始语句转换为 sqlalchemy 语句的各个实例。
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
-- [hhstore/annotated-py-asyncio](https://github.com/hhstore/annotated-py-asyncio) - (已废弃) 项目内容已迁移到: https://github.com/hhstore/annotated-py-projects
 - [miguelgrinberg/Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
 - [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
 - [Ekultek/WhatWaf](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems
@@ -1060,7 +1059,6 @@
 - [mishbahr/django-users2](https://github.com/mishbahr/django-users2) - Custom user model for django &gt;=1.5 with support for multiple user types.
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [FullerHua/gooseeker](https://github.com/FullerHua/gooseeker) - 
 
 ## Roff 
