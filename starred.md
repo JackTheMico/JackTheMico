@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [hktalent/scan4all](https://github.com/hktalent/scan4all) - vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
@@ -637,6 +638,7 @@
 
 ## Python 
 
+- [schireson/pytest-mock-resources](https://github.com/schireson/pytest-mock-resources) - Pytest Fixtures that let you actually test against external resource (Postgres, Mongo, Redshift...) dependent code.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [hhstore/annotated-py-projects](https://github.com/hhstore/annotated-py-projects) - flask/sanic/asyncio/bottle/webpy 等源码注解合集
 - [JoinQuant/jqfactor_analyzer](https://github.com/JoinQuant/jqfactor_analyzer) - 聚宽单因子分析工具
