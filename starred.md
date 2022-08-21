@@ -638,6 +638,7 @@
 
 ## Python 
 
+- [avast/pytest-docker](https://github.com/avast/pytest-docker) - Docker-based integration tests
 - [schireson/pytest-mock-resources](https://github.com/schireson/pytest-mock-resources) - Pytest Fixtures that let you actually test against external resource (Postgres, Mongo, Redshift...) dependent code.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
 - [hhstore/annotated-py-projects](https://github.com/hhstore/annotated-py-projects) - flask/sanic/asyncio/bottle/webpy 等源码注解合集
