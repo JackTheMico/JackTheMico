@@ -269,7 +269,7 @@
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [micro/micro](https://github.com/micro/micro) - An API first development platform
+- [micro/micro](https://github.com/micro/micro) - API first development platform
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [mylxsw/redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -645,6 +645,7 @@
 
 ## Python 
 
+- [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [pylover/pyvalidate](https://github.com/pylover/pyvalidate) - Python method parameter validation @decorator.
 - [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest
