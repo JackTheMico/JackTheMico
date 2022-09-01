@@ -300,6 +300,7 @@
 
 ## HTML 
 
+- [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
@@ -645,7 +646,6 @@
 
 ## Python 
 
-- [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [pylover/pyvalidate](https://github.com/pylover/pyvalidate) - Python method parameter validation @decorator.
 - [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest
@@ -810,7 +810,6 @@
 - [taobao/nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [kennethreitz/bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
-- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 - [wepe/MachineLearning](https://github.com/wepe/MachineLearning) - Basic Machine Learning and Deep Learning
