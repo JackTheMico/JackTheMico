@@ -300,7 +300,6 @@
 
 ## HTML 
 
-- [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
@@ -646,6 +645,7 @@
 
 ## Python 
 
+- [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
 - [pylover/pyvalidate](https://github.com/pylover/pyvalidate) - Python method parameter validation @decorator.
 - [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest
