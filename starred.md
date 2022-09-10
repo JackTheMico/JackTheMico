@@ -532,6 +532,7 @@
 
 ## Others 
 
+- [QuantNi/Quant_Python](https://github.com/QuantNi/Quant_Python) - Config files for my GitHub profile.
 - [akfamily/awesome-data](https://github.com/akfamily/awesome-data) - Awesome-data shows most interesting data-source around the financial world!
 - [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
 - [python-ruia/awesome-ruia](https://github.com/python-ruia/awesome-ruia) - A list of awesome project for Ruia
