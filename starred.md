@@ -120,6 +120,7 @@
 
 ## C++ 
 
+- [vnpy/vnpy_hft](https://github.com/vnpy/vnpy_hft) - VeighNa框架的国泰君安统一交易网关接口
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [sparkfun/Pro_Micro](https://github.com/sparkfun/Pro_Micro) - ATMega32U4 Arduino board, available from SparkFun Electronics
@@ -581,7 +582,7 @@
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) - 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
+- [dive-into-machine-learning/dive-into-machine-learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
 - [jtyoui/PyUnit](https://github.com/jtyoui/PyUnit) - 搜狗词库下载、新词发现算法、常见的工具类、百度应用、翻译、天气预报、汉语纠错、字符串文本数据提取时间解析、百度文库下载、实体抽取等等
 - [aylei/interview](https://github.com/aylei/interview) - 写在19年初的后端社招面试经历🤑
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
@@ -652,6 +653,7 @@
 
 ## Python 
 
+- [lpf6/vnpy_akshare](https://github.com/lpf6/vnpy_akshare) - 
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [akfamily/aktools](https://github.com/akfamily/aktools) - AKTools is an elegant and simple HTTP API library for AKShare, built for AKSharers!
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
