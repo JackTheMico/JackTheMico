@@ -65,7 +65,7 @@
         <img src="https://avatars2.githubusercontent.com/u/14355994" width="100px;" alt="plh2"/>
       </a>
       <br />
-      <a href="https://github.com/plh2">admin_dev</a>
+      <a href="https://github.com/plh2">plh</a>
     </td>
     <td align="center">
       <a href="https://github.com/mishin">
