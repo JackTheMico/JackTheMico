@@ -824,6 +824,7 @@
 - [malwaredllc/bamf](https://github.com/malwaredllc/bamf) - A tool which utilizes Shodan to detect vulnerable IoT devices.
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [taobao/nginx-book](https://github.com/taobao/nginx-book) - Nginx开发从入门到精通
+- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [kennethreitz/bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
@@ -1127,7 +1128,6 @@
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [nccgroup/dirble](https://github.com/nccgroup/dirble) - Fast directory scanning and scraping tool
-- [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
 ## SCSS 
