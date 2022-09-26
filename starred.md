@@ -564,7 +564,7 @@
 - [ryan00zou/rime-xhup](https://github.com/ryan00zou/rime-xhup) - Rime 同文 小鹤双拼音形 自动造词输入方案
 - [itdevbooks/pdf](https://github.com/itdevbooks/pdf) - 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC
 - [peng-zhihui/PocketLCD](https://github.com/peng-zhihui/PocketLCD) - 带充电宝功能的便携显示器
-- [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
+- [KathanP19/HowToHunt](https://github.com/KathanP19/HowToHunt) - Collection of methodology and test case for various web vulnerabilities.
 - [reversebias/mitosis-hardware](https://github.com/reversebias/mitosis-hardware) - Mechanical design files for the Mitosis keyboard
 - [joric/jorian](https://github.com/joric/jorian) - 44-key 16-column wireless split RGB keyboard in a 100x100 mm PCB
 - [YCF/Trident](https://github.com/YCF/Trident) - A wireless Let's split keyboard,base on Mitosis
