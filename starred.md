@@ -681,7 +681,7 @@
 - [hhstore/annotated-py-projects](https://github.com/hhstore/annotated-py-projects) - flask/sanic/asyncio/bottle/webpy 等源码注解合集
 - [JoinQuant/jqfactor_analyzer](https://github.com/JoinQuant/jqfactor_analyzer) - 聚宽单因子分析工具
 - [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
-- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
+- [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin
 - [flytrap/vnpy_baostock](https://github.com/flytrap/vnpy_baostock) - 基于baostock模块获取股票数据的vnpy插件
 - [StilesZ/vnpy_jqdata](https://github.com/StilesZ/vnpy_jqdata) - 
