@@ -338,6 +338,7 @@
 - [mopemope/meghanada-server](https://github.com/mopemope/meghanada-server) - A Java IDE Server for your editor. Java IDE-like features to your favourite text editor.
 - [apache/commons-lang](https://github.com/apache/commons-lang) - Mirror of Apache Commons Lang
 - [qiuqiu3/pptv](https://github.com/qiuqiu3/pptv) - 分析 PPTV 视频真实播放地址全过程
+- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) - Spring Cloud基础教程，持续连载更新中
 - [eacdy/spring-cloud-study](https://github.com/eacdy/spring-cloud-study) - 开源书《跟我学Spring Cloud》的配套代码。讨论QQ群：731548893
 - [JeffLi1993/springcloud-learning-example](https://github.com/JeffLi1993/springcloud-learning-example) - spring cloud 实践学习案例，是 spring cloud 初学者及核心技术巩固的最佳实践。
@@ -451,6 +452,7 @@
 
 ## Lua 
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -1113,7 +1115,6 @@
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [nahamsec/HostileSubBruteforcer](https://github.com/nahamsec/HostileSubBruteforcer) - 
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 
 ## Rust 
