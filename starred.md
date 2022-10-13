@@ -1139,6 +1139,7 @@
 
 ## Shell 
 
+- [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [jonico/pscale-workflow-helper-scripts](https://github.com/jonico/pscale-workflow-helper-scripts) - Workflows and helper scripts around the PlanetScale DB workflow to automate database branch creation, association, update and merge directly out of your pull/merge request or favourite CI/CD.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
