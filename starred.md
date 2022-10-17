@@ -442,7 +442,7 @@
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
 
