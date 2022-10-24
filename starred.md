@@ -6,6 +6,7 @@
 ## Contents
 
 - [ASP](#asp)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -54,6 +55,10 @@
 ## ASP 
 
 - [askme765cs/Wine-QQ-TIM](https://github.com/askme765cs/Wine-QQ-TIM) - 提供在Linux上运行最新版腾讯QQ与TIM的解决方案 Easiest Way to Run QQ&TIM on Linux
+
+## Astro 
+
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Batchfile 
 
@@ -652,6 +657,7 @@
 
 ## PowerShell 
 
+- [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) - Self-use scoop bucket repository.
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 
@@ -1285,7 +1291,6 @@
 ## Vue 
 
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 - [yangxikun/monitor-man](https://github.com/yangxikun/monitor-man) - HTTP API monitor based on postman and newman.
 - [fengT-T/996_list](https://github.com/fengT-T/996_list) - 996 公司展示、讨论
