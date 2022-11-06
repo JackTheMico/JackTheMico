@@ -354,6 +354,7 @@
 
 ## JavaScript 
 
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
 - [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
