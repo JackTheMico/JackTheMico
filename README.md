@@ -89,6 +89,13 @@
       <a href="https://github.com/684201zan">奔走的小毛驴</a>
     </td>
     <td align="center">
+      <a href="https://github.com/RuixiangS">
+        <img src="https://avatars2.githubusercontent.com/u/29591339" width="100px;" alt="RuixiangS"/>
+      </a>
+      <br />
+      <a href="https://github.com/RuixiangS">lumir</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/chance395">
         <img src="https://avatars2.githubusercontent.com/u/19421270" width="100px;" alt="chance395"/>
       </a>
