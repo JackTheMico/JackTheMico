@@ -601,6 +601,7 @@
 
 ## Python 
 
+- [Zuehlke/ConfZ](https://github.com/Zuehlke/ConfZ) - ConfZ is a configuration management library for Python based on pydantic.
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [mewwts/addict](https://github.com/mewwts/addict) - The Python Dict that's better than heroin.
