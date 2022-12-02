@@ -100,7 +100,7 @@
         <img src="https://avatars2.githubusercontent.com/u/19421270" width="100px;" alt="chance395"/>
       </a>
       <br />
-      <a href="https://github.com/chance395">leo.li</a>
+      <a href="https://github.com/chance395">liang.li</a>
     </td>
   </tr>
 </table>
