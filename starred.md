@@ -600,7 +600,6 @@
 
 - [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) - Self-use scoop bucket repository.
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 
 ## Python 
@@ -760,6 +759,7 @@
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [Manisso/wifisky](https://github.com/Manisso/wifisky) - wifisky Python script for pentesting wireless networks
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [fooyou/cmus-lrc](https://github.com/fooyou/cmus-lrc) - A terminal app that can show and scroll lyrics of cmus player
 - [ok100/lyvi](https://github.com/ok100/lyvi) - 🎶 Command-line lyrics (and more!) viewer
