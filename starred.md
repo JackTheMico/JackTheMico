@@ -28,6 +28,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nim](#nim)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -422,6 +423,11 @@
 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [MrKiven/PyZh](https://github.com/MrKiven/PyZh) - :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
+
+## Nim 
+
+- [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
 
 ## Objective-C 
 
