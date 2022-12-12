@@ -400,6 +400,7 @@
 
 ## Lua 
 
+- [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 - [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6是星空系列输入法中的一款音形码中文输入法方案，「Rime键道」是该方案借助RIME开源输入平台的实现。
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
