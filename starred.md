@@ -683,6 +683,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
@@ -1115,7 +1116,6 @@
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A bash script that uploads images & videos to IMGUR.  It can also delete previously uploaded images/videos.
 - [garyparrot/rofi-translate](https://github.com/garyparrot/rofi-translate) - Rofi translate script based on translate-shell
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [webpro/dotfiles](https://github.com/webpro/dotfiles) - Dotfiles for macOS
 - [chvancooten/BugBountyScanner](https://github.com/chvancooten/BugBountyScanner) - A Bash script and Docker image for Bug Bounty reconnaissance. Intended for headless use.
@@ -1172,7 +1172,7 @@
 - [VictDog/PandaTV](https://github.com/VictDog/PandaTV) - Swift3.0之熊猫tv
 - [netyouli/WHC_Scan](https://github.com/netyouli/WHC_Scan) - 高效强大扫描分析iOS和Android项目里没有使用的类Mac开源工具，清理项目垃圾类，让项目结构干净清爽，升级维护得心应手. Efficient and powerful scanning analysis iOS and Android project no classes used in Mac open source tools, cleaning rubbish class projec
 - [Phelthas/Demo_AlarmClock](https://github.com/Phelthas/Demo_AlarmClock) - A alarm clock demo written in Swift 3.0, similar to the Apple clock App
-- [longitachi/ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) - Wechat-like image picker. Support select normal photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能;
+- [longitachi/ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser) - Wechat-like image picker. Support select photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能;
 - [netyouli/WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) - 扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积 Scanning project does not use images in tool, delete without reference images to reduce the packaging volume
 - [EyreFree/VSCAM](https://github.com/EyreFree/VSCAM) - DEPRECATED
 - [netyouli/WHC_PageViewKit](https://github.com/netyouli/WHC_PageViewKit) - iOS平台轻量级的PageView组件，其中TitleBar拥有30多种UI样式
