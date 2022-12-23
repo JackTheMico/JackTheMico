@@ -284,6 +284,7 @@
 
 ## Java 
 
+- [csfwff/rhythm](https://github.com/csfwff/rhythm) - rhythm社区 | 基于symphony深度定制
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
@@ -1106,7 +1107,7 @@
 
 - [SpotX-CLI/SpotX-Mac](https://github.com/SpotX-CLI/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration
-- [jonico/pscale-workflow-helper-scripts](https://github.com/jonico/pscale-workflow-helper-scripts) - Workflows and helper scripts around the PlanetScale DB workflow to automate database branch creation, association, update and merge directly out of your pull/merge request or favourite CI/CD.
+- [jonico/pscale-workflow-helper-scripts](https://github.com/jonico/pscale-workflow-helper-scripts) - Workflows and helper scripts around the PlanetScale DB workflow to automate database branch creation, association, update and merge directly out of your pull/merge request or favourite CI/CD. This is 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
