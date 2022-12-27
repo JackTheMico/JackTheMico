@@ -612,6 +612,8 @@
 
 ## Python 
 
+- [klen/py-frameworks-bench](https://github.com/klen/py-frameworks-bench) - Another benchmark for some python frameworks
+- [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [marcelomaia/commitizen-emoji](https://github.com/marcelomaia/commitizen-emoji) - It's a customization for commitizen
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [Zuehlke/ConfZ](https://github.com/Zuehlke/ConfZ) - ConfZ is a configuration management library for Python based on pydantic.
