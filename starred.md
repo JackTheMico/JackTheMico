@@ -606,12 +606,14 @@
 
 ## PowerShell 
 
+- [SpotX-CLI/SpotX-Win](https://github.com/SpotX-CLI/SpotX-Win) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
 - [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) - Self-use scoop bucket repository.
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
 
 ## Python 
 
+- [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase
 - [klen/py-frameworks-bench](https://github.com/klen/py-frameworks-bench) - Another benchmark for some python frameworks
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [marcelomaia/commitizen-emoji](https://github.com/marcelomaia/commitizen-emoji) - It's a customization for commitizen
@@ -681,7 +683,7 @@
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for web automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for browser automation and testing.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
@@ -1111,6 +1113,7 @@
 
 ## Shell 
 
+- [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [SpotX-CLI/SpotX-Mac](https://github.com/SpotX-CLI/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [jonico/pscale-workflow-helper-scripts](https://github.com/jonico/pscale-workflow-helper-scripts) - Workflows and helper scripts around the PlanetScale DB workflow to automate database branch creation, association, update and merge directly out of your pull/merge request or favourite CI/CD. This is 
@@ -1190,6 +1193,7 @@
 
 ## TypeScript 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
