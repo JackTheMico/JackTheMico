@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -102,6 +103,7 @@
 
 ## C++ 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [vnpy/vnpy_hft](https://github.com/vnpy/vnpy_hft) - VeighNa框架的国泰君安统一交易网关接口
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [sparkfun/Pro_Micro](https://github.com/sparkfun/Pro_Micro) - ATMega32U4 Arduino board, available from SparkFun Electronics
@@ -431,6 +433,12 @@
 - [pragmagic/godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine
 - [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources.
 
+## Nix 
+
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
+- [Ruixi-rebirth/nixos-config](https://github.com/Ruixi-rebirth/nixos-config) - My presonal NixOS config
+
 ## Objective-C 
 
 - [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
@@ -485,6 +493,7 @@
 
 ## Others 
 
+- [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
