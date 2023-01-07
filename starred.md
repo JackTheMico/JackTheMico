@@ -62,7 +62,6 @@
 ## C 
 
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
-- [krenx1983/openctp](https://github.com/krenx1983/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [yumagulovrn/Adafruit_nRF52_Bootloader](https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
 - [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
@@ -634,6 +633,8 @@
 
 ## Python 
 
+- [coderedcorp/wagtail-cache](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail based on the Django cache middleware.
+- [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [wagtail/bakerydemo](https://github.com/wagtail/bakerydemo) - Next generation Wagtail demo, born in Reykjavik
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [supabase-community/supabase-py](https://github.com/supabase-community/supabase-py) - Python Client for Supabase
@@ -654,6 +655,7 @@
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [akfamily/aktools](https://github.com/akfamily/aktools) - AKTools is an elegant and simple HTTP API library for AKShare, built for AKSharers!
 - [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+- [krenx1983/openctp](https://github.com/krenx1983/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 - [collove/pasteme](https://github.com/collove/pasteme) - ⚡ RESTful Pastebin Service for @hashnode via @planetscale
 - [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
@@ -1137,6 +1139,7 @@
 
 ## Shell 
 
+- [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [SpotX-CLI/SpotX-Mac](https://github.com/SpotX-CLI/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration
