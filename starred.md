@@ -315,6 +315,7 @@
 
 ## JavaScript 
 
+- [claygregory/serverless-prune-plugin](https://github.com/claygregory/serverless-prune-plugin) - Serverless Framework plugin to reap unused versions of deployed functions from AWS
 - [tav/asciinema2gif](https://github.com/tav/asciinema2gif) - Generate animated GIFs from asciinema terminal recordings
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
@@ -403,7 +404,7 @@
 
 ## Kotlin 
 
-- [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 可以用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
+- [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -414,6 +415,7 @@
 
 ## Lua 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) - 🚧 (Alpha stage software) Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment 🚧
 - [BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en) - Rime / Easy English 英文输入法
 - [xkinput/Rime_JD](https://github.com/xkinput/Rime_JD) - 星空键道6是星空系列输入法中的一款音形码中文输入法方案，「Rime键道」是该方案借助RIME开源输入平台的实现。
@@ -636,6 +638,7 @@
 
 ## Python 
 
+- [whisller/pytest-serverless](https://github.com/whisller/pytest-serverless) - Automatically mocks resources from serverless.yml in pytest using moto.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [coderedcorp/wagtail-cache](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail based on the Django cache middleware.
