@@ -304,7 +304,7 @@
 - [trojan-gfw/igniter](https://github.com/trojan-gfw/igniter) - A trojan client for Android (UNDER CONSTRUCTION).
 - [knightliao/disconf](https://github.com/knightliao/disconf) - Distributed Configuration Management Platform(分布式配置管理平台)
 - [mopemope/meghanada-server](https://github.com/mopemope/meghanada-server) - A Java IDE Server for your editor. Java IDE-like features to your favourite text editor.
-- [apache/commons-lang](https://github.com/apache/commons-lang) - Mirror of Apache Commons Lang
+- [apache/commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
 - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) - Spring Cloud基础教程，持续连载更新中
 - [eacdy/spring-cloud-study](https://github.com/eacdy/spring-cloud-study) - 开源书《跟我学Spring Cloud》的配套代码。讨论QQ群：731548893
@@ -913,7 +913,7 @@
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [shrugs/partyparrot](https://github.com/shrugs/partyparrot) - :tada: :bird: Very Serious Code :tm: that generates huge slack messages with emojis.
 - [xuyichenmo/Selenium-Document](https://github.com/xuyichenmo/Selenium-Document) - a document with regard to selenium
-- [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
+- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
 - [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
