@@ -764,7 +764,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [umutbozkurt/django-rest-framework-mongoengine](https://github.com/umutbozkurt/django-rest-framework-mongoengine) - Mongoengine support for Django Rest Framework
 - [barseghyanartur/django-mongoengine-filter](https://github.com/barseghyanartur/django-mongoengine-filter) - django-filter for MongoEngine
-- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
+- [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [brython-dev/brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [cckuailong/py2sec](https://github.com/cckuailong/py2sec) - :snake: py2sec is a Cross-Platform, Fast and Flexible tool to change the .py to .so(Linux and Mac) or .pyd(Win).
