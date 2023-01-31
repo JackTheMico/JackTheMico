@@ -104,7 +104,7 @@
 
 ## C++ 
 
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [vnpy/vnpy_hft](https://github.com/vnpy/vnpy_hft) - VeighNa框架的国泰君安统一交易网关接口
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [sparkfun/Pro_Micro](https://github.com/sparkfun/Pro_Micro) - ATMega32U4 Arduino board, available from SparkFun Electronics
