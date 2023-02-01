@@ -636,7 +636,7 @@
 ## PowerShell 
 
 - [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) - 中国用户能用的 Scoop 应用库，每日同步 Scoop 的官方库，加速应用的下载速度
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) - Self-use scoop bucket repository.
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
 - [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
