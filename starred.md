@@ -454,7 +454,7 @@
 
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
-- [Ruixi-rebirth/nixos-config](https://github.com/Ruixi-rebirth/nixos-config) - My presonal NixOS config
+- [Ruixi-rebirth/flakes](https://github.com/Ruixi-rebirth/flakes) - My presonal NixOS config
 
 ## Objective-C 
 
