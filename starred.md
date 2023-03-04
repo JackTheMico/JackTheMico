@@ -160,7 +160,7 @@
 
 ## Emacs Lisp 
 
-- [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
+- [Zyrohex/.doom.d](https://github.com/Zyrohex/.doom.d) - Private DOOM Emacs config highly focused around orgmode and GTD methodology, along with language support for Python and Elisp.
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [vermiculus/sx.el](https://github.com/vermiculus/sx.el) - Stack Exchange for Emacs
 - [abo-abo/org-download](https://github.com/abo-abo/org-download) - Drag and drop images to Emacs org-mode
