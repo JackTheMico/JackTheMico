@@ -1040,7 +1040,7 @@
 - [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 - [eugeniy/pytest-tornado](https://github.com/eugeniy/pytest-tornado) - A py.test plugin providing fixtures and markers to simplify testing of asynchronous tornado applications.
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
-- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - Pure Python MySQL Client
+- [PyMySQL/PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL client library for Python
 - [Introduction-to-Tornado/Introduction-to-Tornado](https://github.com/Introduction-to-Tornado/Introduction-to-Tornado) - This is the sample code for the Introduction to Tornado book, published by O'Reilly Media.
 - [foutaise/texttable](https://github.com/foutaise/texttable) - Python module to create simple ASCII tables
 - [bufordtaylor/python-texttable](https://github.com/bufordtaylor/python-texttable) - For easy printing of ascii tables within python
