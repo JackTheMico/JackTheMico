@@ -679,7 +679,7 @@
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automatic semantic versioning for python projects
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
-- [PyCQA/pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+- [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [pixelneo/vim-python-docstring](https://github.com/pixelneo/vim-python-docstring) - A Vim plugin for generating python docstrings.
 - [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
@@ -848,7 +848,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [Skorpyon/aiorestframework](https://github.com/Skorpyon/aiorestframework) - REST Framework for aiohttp
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
-- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Elasticsearch client library for Python
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
