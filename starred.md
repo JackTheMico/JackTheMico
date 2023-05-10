@@ -296,6 +296,7 @@
 
 - [csfwff/rhythm](https://github.com/csfwff/rhythm) - rhythm社区 | 基于symphony深度定制
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
@@ -721,7 +722,7 @@
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Browser automation framework for reliable testing with Python.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python browser automation framework for creating reliable end-to-end tests.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
@@ -1226,7 +1227,6 @@
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
