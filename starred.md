@@ -564,7 +564,7 @@
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [Programming-With-Love/.github](https://github.com/Programming-With-Love/.github) - :hamburger: :heart: :moneybag: :zap: 用爱发电 (Programming With Love) 开源技术爱好者组织 | :sparkles: 组织简介 | :construction_worker: 所有成员及架构 | :penguin: 文明守则-开源精神 | :heavy_plus_sign: 加入我们 | 项目转入 :arrow_down: && 转出 :
-- [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具
+- [xiaoming2028/FreePAC](https://github.com/xiaoming2028/FreePAC) - 科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具、极光、魔法上网
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 - [jobbole/awesome-machine-learning-cn](https://github.com/jobbole/awesome-machine-learning-cn) - 机器学习资源大全中文版，包括机器学习领域的框架、库以及软件
@@ -745,7 +745,7 @@
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - AI Vector Database for LLMs/LangChain. Doubles as a Data Lake for Deep Learning. Store, query, version, & visualize any data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
@@ -1146,6 +1146,7 @@
 
 ## Shell 
 
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [SpotX-CLI/SpotX-Mac](https://github.com/SpotX-CLI/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
