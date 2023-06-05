@@ -965,7 +965,7 @@
 - [codingo/NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [secretsquirrel/the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory) - Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors
-- [FortyNorthSecurity/EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- [RedSiege/EyeWitness](https://github.com/RedSiege/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [google/clusterfuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure.
 - [gtalarico/flask-vuejs-template](https://github.com/gtalarico/flask-vuejs-template) - Flask + Vue JS Template
