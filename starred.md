@@ -192,6 +192,7 @@
 
 ## Go 
 
+- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -317,6 +318,7 @@
 
 ## JavaScript 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [linzxcw/qilindrop](https://github.com/linzxcw/qilindrop) - Modify from qilindrop by RobinLinus,just added Internet sharing.
 - [claygregory/serverless-prune-plugin](https://github.com/claygregory/serverless-prune-plugin) - Serverless Framework plugin to reap unused versions of deployed functions from AWS
 - [tav/asciinema2gif](https://github.com/tav/asciinema2gif) - Generate animated GIFs from asciinema terminal recordings
@@ -646,6 +648,7 @@
 
 ## Python 
 
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [whisller/pytest-serverless](https://github.com/whisller/pytest-serverless) - Automatically mocks resources from serverless.yml in pytest using moto.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
