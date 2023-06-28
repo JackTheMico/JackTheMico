@@ -649,6 +649,7 @@
 
 ## Python 
 
+- [planetscale/django_psdb_engine](https://github.com/planetscale/django_psdb_engine) - Disable foreign key constraints in Django
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [whisller/pytest-serverless](https://github.com/whisller/pytest-serverless) - Automatically mocks resources from serverless.yml in pytest using moto.
 - [zappa/Zappa](https://github.com/zappa/Zappa) - Serverless Python
@@ -1154,6 +1155,7 @@
 
 ## Shell 
 
+- [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
