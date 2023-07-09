@@ -82,18 +82,18 @@
       <a href="https://github.com/linzo21">linzo21</a>
     </td>
     <td align="center">
-      <a href="https://github.com/684201zan">
-        <img src="https://avatars2.githubusercontent.com/u/21252908" width="100px;" alt="684201zan"/>
-      </a>
-      <br />
-      <a href="https://github.com/684201zan">奔走的小毛驴</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/RuixiangS">
         <img src="https://avatars2.githubusercontent.com/u/29591339" width="100px;" alt="RuixiangS"/>
       </a>
       <br />
       <a href="https://github.com/RuixiangS">lumir</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/684201zan">
+        <img src="https://avatars2.githubusercontent.com/u/21252908" width="100px;" alt="684201zan"/>
+      </a>
+      <br />
+      <a href="https://github.com/684201zan">奔走的小毛驴</a>
     </td>
     <td align="center">
       <a href="https://github.com/chance395">
