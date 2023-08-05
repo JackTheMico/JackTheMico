@@ -643,6 +643,7 @@
 
 ## Python 
 
+- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [planetscale/django_psdb_engine](https://github.com/planetscale/django_psdb_engine) - Disable foreign key constraints in Django
