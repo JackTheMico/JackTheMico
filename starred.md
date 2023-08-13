@@ -488,7 +488,6 @@
 - [FenSmith/SuspendButton](https://github.com/FenSmith/SuspendButton) - cell的动画效果是抄袭来的，感觉不错，所以拿来分享了。浮层按钮，cell滑动时按钮隐藏，滑动停止时按钮出现。
 - [alcatraz/Alcatraz](https://github.com/alcatraz/Alcatraz) - Package manager for Xcode
 - [rsms/peertalk](https://github.com/rsms/peertalk) - iOS and Mac Cocoa library for communicating over USB
-- [ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自
 - [forkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) - Template auto layout cell for automatically UITableViewCell height calculating
 - [Akateason/XTLoopScroll](https://github.com/Akateason/XTLoopScroll) - iOS auto loop scrollview . two NSTimmer .
 - [CoderJackyHuang/SectionAnimation](https://github.com/CoderJackyHuang/SectionAnimation) - 利用UITableView的section实现像QQ那样的展开与收起的效果
@@ -1223,6 +1222,7 @@
 - [netyouli/WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool) - 扫描项目里没有使用的图片工具，删除没有引用的图片以减小打包体积 Scanning project does not use images in tool, delete without reference images to reduce the packaging volume
 - [EyreFree/VSCAM](https://github.com/EyreFree/VSCAM) - DEPRECATED
 - [netyouli/WHC_PageViewKit](https://github.com/netyouli/WHC_PageViewKit) - iOS平台轻量级的PageView组件，其中TitleBar拥有30多种UI样式
+- [ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) - [EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自
 
 ## TeX 
 
