@@ -268,7 +268,6 @@
 
 - [joric/nrfmicro](https://github.com/joric/nrfmicro) - Pro Micro-compatible Bluetooth 5.2 board with Li-Po charger and USB-C (nRF52840-based)
 - [MycroftAI/mycroft-skills](https://github.com/MycroftAI/mycroft-skills) - A repository for sharing and collaboration for third-party Mycroft skills development.
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [yumagulovrn/dao-choc-ble](https://github.com/yumagulovrn/dao-choc-ble) - Wireless split keyboard for Kailh PG1350 (Choc) mechanical switches
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
@@ -1153,12 +1152,12 @@
 ## Shell 
 
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
 - [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [jonico/pscale-workflow-helper-scripts](https://github.com/jonico/pscale-workflow-helper-scripts) - Workflows and helper scripts around the PlanetScale DB workflow to automate database branch creation, association, update and merge directly out of your pull/merge request or favourite CI/CD. This is 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -1264,6 +1263,7 @@
 
 ## Vim Script 
 
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) - Vim/Neovim AI code generation plugin (OpenAI, ChatGPT, and more)
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
