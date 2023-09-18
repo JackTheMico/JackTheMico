@@ -1106,7 +1106,7 @@
 - [honzakral/django-threadedcomments](https://github.com/honzakral/django-threadedcomments) - django-threadedcomments is a simple yet flexible threaded commenting system for Django.
 - [django/django-contrib-comments](https://github.com/django/django-contrib-comments) - 
 - [pybrain/pybrain](https://github.com/pybrain/pybrain) - 
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite and cockroachdb
 - [bread-and-pepper/django-userena](https://github.com/bread-and-pepper/django-userena) - Accounts for Django made beautifully simple
 - [mishbahr/django-users2](https://github.com/mishbahr/django-users2) - Custom user model for django &gt;=1.5 with support for multiple user types.
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
