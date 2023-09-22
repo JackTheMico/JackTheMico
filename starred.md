@@ -43,6 +43,7 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [V](#v)
 - [Vim Script](#vim-script)
@@ -1226,6 +1227,10 @@
 ## TeX 
 
 - [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
+
+## Text 
+
+- [DSPBluePrints/FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 
 ## TypeScript 
 
