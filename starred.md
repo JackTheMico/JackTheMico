@@ -637,7 +637,7 @@
 
 - [ScoopInstaller/BucketTemplate](https://github.com/ScoopInstaller/BucketTemplate) - Template Bucket for Scoop Installer
 - [duzyn/scoop-cn](https://github.com/duzyn/scoop-cn) - 中国用户能用的 Scoop 应用库，每日同步 Scoop 的官方库，加速应用的下载速度
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
+- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [ygguorun/scoop-bucket](https://github.com/ygguorun/scoop-bucket) - Self-use scoop bucket repository.
 - [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
@@ -876,7 +876,7 @@
 - [rpkilby/jsonfield](https://github.com/rpkilby/jsonfield) - A reusable Django model field for storing ad-hoc JSON data
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [rspivak/lsbasi](https://github.com/rspivak/lsbasi) - Let's Build A Simple Interpreter
-- [gaojiuli/toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
+- [elliotgao2/toapi](https://github.com/elliotgao2/toapi) - Every web site provides APIs.
 - [flaggo/pydu](https://github.com/flaggo/pydu) - Useful data structures and utils for Python.
 - [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell
 - [gyh1621/GetSubtitles](https://github.com/gyh1621/GetSubtitles) - 一步下载匹配字幕
