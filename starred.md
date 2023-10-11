@@ -1155,7 +1155,7 @@
 
 - [Burnett01/rsync-deployments](https://github.com/Burnett01/rsync-deployments) - GitHub Action for deploying code via rsync over ssh
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
-- [SpotX-CLI/SpotX-Linux](https://github.com/SpotX-CLI/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
+- [Nuzair46/SpotX-Linux](https://github.com/Nuzair46/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [Nuzair46/SpotX-Mac](https://github.com/Nuzair46/SpotX-Mac) - Spotify Ad blocker based on SpotX for MacOS
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [jonico/pscale-workflow-helper-scripts](https://github.com/jonico/pscale-workflow-helper-scripts) - Workflows and helper scripts around the PlanetScale DB workflow to automate database branch creation, association, update and merge directly out of your pull/merge request or favourite CI/CD. This is 
