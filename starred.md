@@ -600,7 +600,7 @@
 - [HarshilPatel007/HackingLabs](https://github.com/HarshilPatel007/HackingLabs) - A List Of Labs For People (Students) Who Want Learn OR Practice IT Security / Hacking / Penetration Testing In Ethical Way.
 - [PacktPublishing/Learning-Python-Web-Penetration-Testing](https://github.com/PacktPublishing/Learning-Python-Web-Penetration-Testing) - Learning Python Web Penetration Testing, published by Packt
 - [faizann24/Resources-for-learning-Hacking](https://github.com/faizann24/Resources-for-learning-Hacking) - All the resources I could find for learning Ethical Hacking and penetration testing.
-- [husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) - 🔗 All the resources I could find for learning Ethical Hacking and Penetration Testing.
+- [husnainfareed/awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
@@ -645,6 +645,7 @@
 
 ## Python 
 
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
