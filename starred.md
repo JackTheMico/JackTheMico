@@ -318,7 +318,7 @@
 ## JavaScript 
 
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [linzxcw/qilindrop](https://github.com/linzxcw/qilindrop) - Modify from qilindrop by RobinLinus,just added Internet sharing.
 - [claygregory/serverless-prune-plugin](https://github.com/claygregory/serverless-prune-plugin) - Serverless Framework plugin to reap unused versions of deployed functions from AWS
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
