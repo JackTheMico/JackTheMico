@@ -557,7 +557,6 @@
 - [PyrooL/Alpha](https://github.com/PyrooL/Alpha) - A 28-key semi-ortholinear mechanical keyboard designed by PyroL
 - [keebio/fourier](https://github.com/keebio/fourier) - PCB files for Fourier Keyboard, a 40% split keyboard
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
-- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [jayknoxqu/ibus-rime](https://github.com/jayknoxqu/ibus-rime) - ibus-rime输入法配置文件及其词典文件
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
