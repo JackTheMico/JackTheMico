@@ -40,6 +40,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -90,6 +91,7 @@
 
 ## C# # 
 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
 - [mdhiggins/CenterTaskbar](https://github.com/mdhiggins/CenterTaskbar) - Center Windows Taskbar Icons
@@ -297,7 +299,6 @@
 - [sohutv/cachecloud](https://github.com/sohutv/cachecloud) - 搜狐视频(sohu tv)Redis私有云平台 ：支持Redis多种架构(Standalone、Sentinel、Cluster)高效管理、有效降低大规模redis运维成本，提升资源管控能力和利用率。平台提供快速搭建/迁移，运维管理，弹性伸缩，统计监控，客户端整合接入等功能。(CacheCloud is a Redis cloud management platform. It supports 
 - [csfwff/rhythm](https://github.com/csfwff/rhythm) - rhythm社区 | 基于symphony深度定制
 - [rootkiwi/an2linuxclient](https://github.com/rootkiwi/an2linuxclient) - Sync Android notifications encrypted to a Linux desktop
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
@@ -1151,6 +1152,10 @@
 
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [kakawait/hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme) - A gorgeous responsive theme for Hugo blog framework
+
+## Scala 
+
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 
 ## Shell 
 
