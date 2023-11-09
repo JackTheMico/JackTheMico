@@ -142,6 +142,7 @@
 
 ## Cython 
 
+- [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dockerfile 
@@ -589,6 +590,7 @@
 
 ## Python 
 
+- [shinnytech/tqsdk-python](https://github.com/shinnytech/tqsdk-python) - 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易
 - [myquant/strategy](https://github.com/myquant/strategy) - 掘金策略集锦
 - [lpf6/vnpy_akshare](https://github.com/lpf6/vnpy_akshare) - 
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
