@@ -57,6 +57,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [openctp/openctp](https://github.com/openctp/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [yumagulovrn/Adafruit_nRF52_Bootloader](https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
@@ -109,7 +110,7 @@
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [Trojan-Qt5/Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5) - Removed due to regulation
 - [LMMS/lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
-- [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.
+- [OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with Redis developed by Qihoo's infrastructure team.
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
