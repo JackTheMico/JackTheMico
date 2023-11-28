@@ -49,7 +49,7 @@
 
 ## Astro 
 
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## Batchfile 
 
@@ -979,7 +979,7 @@
 - [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
 - [hfukada/py-decogres](https://github.com/hfukada/py-decogres) - Python PostgreSQL Connection Pool decorator.
 - [mike-zhang/mikeBlogEssays](https://github.com/mike-zhang/mikeBlogEssays) - 
-- [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
+- [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ to extract content from the internet and build your own Large Language Models in this new AI era
 - [alphardex/looter](https://github.com/alphardex/looter) - Web-Scraping for Humans!
 - [xchaoinfo/fuck-login](https://github.com/xchaoinfo/fuck-login) - 模拟登录一些知名的网站，为了方便爬取需要登录的网站
 - [eugeniy/pytest-tornado](https://github.com/eugeniy/pytest-tornado) - A py.test plugin providing fixtures and markers to simplify testing of asynchronous tornado applications.
