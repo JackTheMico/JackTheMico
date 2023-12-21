@@ -478,7 +478,7 @@
 - [ruiqimao/keyboard-pcb-guide](https://github.com/ruiqimao/keyboard-pcb-guide) - Guide on how to design keyboard PCBs with KiCad
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
+- [foldmap/awsm.fish](https://github.com/foldmap/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [bittentech/Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap) - This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.
@@ -1128,7 +1128,7 @@
 - [goreliu/zshguide](https://github.com/goreliu/zshguide) - Zsh 开发指南
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+- [foldmap/fisher](https://github.com/foldmap/fisher) - A plugin manager for Fish
 - [oh-my-fish/plugin-sudope](https://github.com/oh-my-fish/plugin-sudope) - sudope plugin for Oh-My-Fish. Quickly put 'sudo' in your command
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
