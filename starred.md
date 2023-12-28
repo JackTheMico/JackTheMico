@@ -595,6 +595,7 @@
 
 ## Python 
 
+- [awslabs/gluonts](https://github.com/awslabs/gluonts) - Probabilistic time series modeling in Python
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [vnpy/vnpy_ctastrategy](https://github.com/vnpy/vnpy_ctastrategy) - VeighNa框架的CTA策略模块
