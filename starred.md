@@ -614,6 +614,7 @@
 
 ## Python 
 
+- [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [marcelomaia/commitizen-emoji](https://github.com/marcelomaia/commitizen-emoji) - It's a customization for commitizen
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
@@ -1098,6 +1099,7 @@
 
 ## Rust 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [nix-community/rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix! [maintainer=@aaronjanse]
@@ -1202,6 +1204,7 @@
 
 ## TypeScript 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
