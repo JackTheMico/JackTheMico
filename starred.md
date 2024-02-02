@@ -316,6 +316,7 @@
 
 ## JavaScript 
 
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [linzxcw/qilindrop](https://github.com/linzxcw/qilindrop) - Modify from qilindrop by RobinLinus,just added Internet sharing.
 - [claygregory/serverless-prune-plugin](https://github.com/claygregory/serverless-prune-plugin) - Serverless Framework plugin to reap unused versions of deployed functions from AWS
@@ -614,6 +615,8 @@
 
 ## Python 
 
+- [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - ⚡Blazing Fast Pythonic App Framework from Future 🔮: For Humans & LLMs 🤖
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [marcelomaia/commitizen-emoji](https://github.com/marcelomaia/commitizen-emoji) - It's a customization for commitizen
@@ -1127,7 +1130,7 @@
 
 - [sileshn/ManjaroWSL2](https://github.com/sileshn/ManjaroWSL2) - Manjaro for WSL2 using wsldl
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
