@@ -61,7 +61,6 @@
 
 ## C 
 
-- [openctp/openctp](https://github.com/openctp/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [yumagulovrn/Adafruit_nRF52_Bootloader](https://github.com/yumagulovrn/Adafruit_nRF52_Bootloader) - USB-enabled bootloaders for the nRF52 BLE SoC chips
 - [jonaburg/picom](https://github.com/jonaburg/picom) - A lightweight compositor for X11 (previously a compton fork)
@@ -153,7 +152,6 @@
 ## Dart 
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -200,7 +198,6 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
-- [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library
 - [shyiko/jabba](https://github.com/shyiko/jabba) - (cross-platform) Java Version Manager
@@ -319,12 +316,9 @@
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [linzxcw/qilindrop](https://github.com/linzxcw/qilindrop) - Modify from qilindrop by RobinLinus,just added Internet sharing.
-- [claygregory/serverless-prune-plugin](https://github.com/claygregory/serverless-prune-plugin) - Serverless Framework plugin to reap unused versions of deployed functions from AWS
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [arabold/serverless-export-env](https://github.com/arabold/serverless-export-env) - Serverless plugin to export environment variables into a .env file
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-- [zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf) - 自用脚本，随缘更新
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -401,7 +395,6 @@
 ## Kotlin 
 
 - [osfans/trime](https://github.com/osfans/trime) - 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android
-- [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -436,10 +429,7 @@
 
 ## Nix 
 
-- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@adisbladis]
-- [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 
 ## Objective-C 
@@ -506,7 +496,6 @@
 - [QuantNi/Quant-Report](https://github.com/QuantNi/Quant-Report) - 
 - [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - [eryajf/awesome-github-profile-readme-chinese](https://github.com/eryajf/awesome-github-profile-readme-chinese) - 🦩 优秀的中文区个人主页搜集
-- [kivymd/KivyMDBuilder](https://github.com/kivymd/KivyMDBuilder) - Drag and drop components, and turn designs into real application screens in minutes instead of hours. Take advantage of the various widgets and their properties to build elaborate and beautiful apps.
 - [OpenRunner/clash-freenode](https://github.com/OpenRunner/clash-freenode) - 订阅地址🚀 免费共享♻️ 定期更新✨ 科学上网🌈 请勿滥用🚫一键订阅📪SSR/CLASH/V2RAY
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [imliubo/M5Pi](https://github.com/imliubo/M5Pi) - M5Pi is an open source Linux embedded development board, using Allwinner F1C200s CPU, and has a beautiful shell.
@@ -626,21 +615,18 @@
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [vacanza/python-holidays](https://github.com/vacanza/python-holidays) - Generate and work with holidays in Python
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
-- [awslabs/gluonts](https://github.com/awslabs/gluonts) - Probabilistic time series modeling in Python
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [vnpy/vnpy_ctastrategy](https://github.com/vnpy/vnpy_ctastrategy) - VeighNa框架的CTA策略模块
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [backtrader2/backtrader](https://github.com/backtrader2/backtrader) - Python Backtesting library for trading strategies
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library
 - [shinnytech/tqsdk-python](https://github.com/shinnytech/tqsdk-python) - 天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易
 - [myquant/strategy](https://github.com/myquant/strategy) - 掘金策略集锦
 - [lpf6/vnpy_akshare](https://github.com/lpf6/vnpy_akshare) - 
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
-- [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
@@ -652,20 +638,14 @@
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
-- [akfamily/aktools](https://github.com/akfamily/aktools) - AKTools is an elegant and simple HTTP API library for AKShare, built for AKSharers!
-- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
 - [collove/pasteme](https://github.com/collove/pasteme) - ⚡ RESTful Pastebin Service for @hashnode via @planetscale
-- [JackTheMico/ruia-peewee-async](https://github.com/JackTheMico/ruia-peewee-async) - A Ruia plugin that uses the peewee-async to store data to MySQL or PostgreSQL or both of them
 - [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
-- [pylover/pyvalidate](https://github.com/pylover/pyvalidate) - Python method parameter validation @decorator.
 - [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 - [pytest-dev/pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Asyncio support for pytest
 - [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automatic semantic versioning for python projects
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
-- [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
-- [pixelneo/vim-python-docstring](https://github.com/pixelneo/vim-python-docstring) - A Vim plugin for generating python docstrings.
 - [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
 - [avast/pytest-docker](https://github.com/avast/pytest-docker) - Docker-based integration tests
@@ -676,12 +656,7 @@
 - [nyggus/perftester](https://github.com/nyggus/perftester) - A lightweight Python package for performance testing of Python functions.
 - [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - Trading & Technical Analysis Bot - 4,100+ stars, 1,100+ forks
 - [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin
-- [flytrap/vnpy_baostock](https://github.com/flytrap/vnpy_baostock) - 基于baostock模块获取股票数据的vnpy插件
-- [StilesZ/vnpy_jqdata](https://github.com/StilesZ/vnpy_jqdata) - 
-- [vnpy/vnpy_datamanager](https://github.com/vnpy/vnpy_datamanager) - VeighNa框架的数据管理模块
-- [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -1207,14 +1182,11 @@
 
 ## TypeScript 
 
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
-- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
@@ -1243,7 +1215,6 @@
 
 - [alker0/chezmoi.vim](https://github.com/alker0/chezmoi.vim) - Highlight dotfiles you manage with chezmoi.
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
-- [dense-analysis/neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [KabbAmine/zeavim.vim](https://github.com/KabbAmine/zeavim.vim) - Zeal for Vim
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
