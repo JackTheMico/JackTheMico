@@ -31,6 +31,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nix](#nix)
+- [Nushell](#nushell)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -431,6 +432,10 @@
 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
+
+## Nushell 
+
+- [nushell/awesome-nu](https://github.com/nushell/awesome-nu) - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
 
 ## Objective-C 
 
