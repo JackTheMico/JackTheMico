@@ -610,6 +610,7 @@
 
 ## Python 
 
+- [bczsalba/Termage](https://github.com/bczsalba/Termage) - Generate SVGs from any Python code, even in your documentation.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - ⚡Blazing Fast Pythonic App Framework from Future 🔮: For Humans & LLMs 🤖
