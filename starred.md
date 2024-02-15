@@ -195,6 +195,7 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [rsteube/carapace-bin](https://github.com/rsteube/carapace-bin) - multi-shell multi-command argument completer
 - [team-ide/teamide](https://github.com/team-ide/teamide) - Team IDE 工具 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch等管理工具
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -349,6 +350,7 @@
 - [operator996/yaocl](https://github.com/operator996/yaocl) - yet another overtime crops list,脉命网源码
 - [agermanidis/livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time.
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
+- [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js
@@ -611,7 +613,6 @@
 ## Python 
 
 - [bczsalba/Termage](https://github.com/bczsalba/Termage) - Generate SVGs from any Python code, even in your documentation.
-- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - ⚡Blazing Fast Pythonic App Framework from Future 🔮: For Humans & LLMs 🤖
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
@@ -1214,7 +1215,6 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - Bring background images to your vscode. vscode background 背景扩展插件。
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-- [percona/grafana-dashboards](https://github.com/percona/grafana-dashboards) - PMM dashboards for database monitoring
 
 ## V 
 
