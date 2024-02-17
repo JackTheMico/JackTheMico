@@ -409,6 +409,7 @@
 
 ## Lua 
 
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -612,6 +613,7 @@
 
 ## Python 
 
+- [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [bczsalba/Termage](https://github.com/bczsalba/Termage) - Generate SVGs from any Python code, even in your documentation.
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - ⚡Blazing Fast Pythonic App Framework from Future 🔮: For Humans & LLMs 🤖
