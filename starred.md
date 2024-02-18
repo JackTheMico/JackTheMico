@@ -176,7 +176,6 @@
 - [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
 - [emacs-lsp/lsp-java](https://github.com/emacs-lsp/lsp-java) - lsp-mode :heart: java
 - [jdee-emacs/jdee](https://github.com/jdee-emacs/jdee) - The JDEE is an add-on software package that turns Emacs into a comprehensive system for creating, editing, debugging, and documenting Java applications.
-- [dp12/parrot](https://github.com/dp12/parrot) - A package to rotate text and party with parrots at the same time
 - [seagle0128/doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [pythonic-emacs/anaconda-mode](https://github.com/pythonic-emacs/anaconda-mode) - Code navigation, documentation lookup and completion for Python.
 - [dash-docs-el/counsel-dash](https://github.com/dash-docs-el/counsel-dash) - Browse Dash docsets using Ivy
@@ -409,6 +408,7 @@
 
 ## Lua 
 
+- [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) - An extension for telescope.nvim that allows you to search emojis😃
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language
 - [AssrtOSS/mpv-assrt](https://github.com/AssrtOSS/mpv-assrt) - mpv自动下载字幕脚本 Automatically download subtitles from assrt.net
@@ -613,6 +613,8 @@
 
 ## Python 
 
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
+- [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [bczsalba/Termage](https://github.com/bczsalba/Termage) - Generate SVGs from any Python code, even in your documentation.
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
@@ -874,7 +876,6 @@
 - [aio-libs/aiopg](https://github.com/aio-libs/aiopg) - aiopg is a library for accessing a PostgreSQL database from the asyncio
 - [filamoon/pyapollo](https://github.com/filamoon/pyapollo) - Python client for Ctrip's Apollo.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [haskellcamargo/sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
@@ -882,7 +883,6 @@
 - [gebiWangshushu/JDCaptchaCrack](https://github.com/gebiWangshushu/JDCaptchaCrack) - Python + Selenium+chromedirver 破解京东登录滑块验证码
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
-- [shrugs/partyparrot](https://github.com/shrugs/partyparrot) - :tada: :bird: Very Serious Code :tm: that generates huge slack messages with emojis.
 - [Fab-Liu/Selenium-Document](https://github.com/Fab-Liu/Selenium-Document) - a document with regard to selenium
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
@@ -1102,7 +1102,6 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [nccgroup/dirble](https://github.com/nccgroup/dirble) - Fast directory scanning and scraping tool
 - [MaxBittker/sandspiel](https://github.com/MaxBittker/sandspiel) - Creative cellular automata browser game
