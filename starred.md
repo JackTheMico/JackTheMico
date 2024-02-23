@@ -614,6 +614,8 @@
 
 ## Python 
 
+- [conlin-huang/aio-scrapy](https://github.com/conlin-huang/aio-scrapy) - Implement scrapy with asyncio
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [slackapi/bolt-python](https://github.com/slackapi/bolt-python) - A framework to build Slack apps using Python
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
