@@ -614,6 +614,9 @@
 
 ## Python 
 
+- [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
+- [Insutanto/scrapy-distributed](https://github.com/Insutanto/scrapy-distributed) - A series of distributed components for Scrapy. Including RabbitMQ-based components, Kafka-based components, and RedisBloom-based components for Scrapy.
+- [scrapy/scrapyd](https://github.com/scrapy/scrapyd) - A service daemon to run Scrapy spiders
 - [conlin-huang/aio-scrapy](https://github.com/conlin-huang/aio-scrapy) - Implement scrapy with asyncio
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
