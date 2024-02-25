@@ -417,7 +417,6 @@
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - A lua neovim plugin to generate shareable file permalinks (with line ranges) for several git web frontend hosts. Inspired by tpope/vim-fugitive's :GBrowse
 - [RishabhRD/nvim-cheat.sh](https://github.com/RishabhRD/nvim-cheat.sh) - cheat.sh integration for neovim in elegant way
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.9+.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) - An extension for telescope.nvim that allows you operate zoxide within Neovim.
@@ -624,7 +623,7 @@
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [bczsalba/Termage](https://github.com/bczsalba/Termage) - Generate SVGs from any Python code, even in your documentation.
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
-- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - ⚡Blazing Fast Pythonic App Framework from Future 🔮: For Humans & LLMs 🤖
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - 🔮Pythonic App Framework from Future :  Build ⚡Blazing Fast , 🤖Self-Modifying Apps!
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [marcelomaia/commitizen-emoji](https://github.com/marcelomaia/commitizen-emoji) - It's a customization for commitizen
