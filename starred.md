@@ -429,6 +429,7 @@
 
 ## Makefile 
 
+- [ogarcia/docker-taskd](https://github.com/ogarcia/docker-taskd) - Taskwarrior is an Open Source Software that manages your TODO list from your command line.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [MrKiven/PyZh](https://github.com/MrKiven/PyZh) - :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 
@@ -616,6 +617,7 @@
 
 ## Python 
 
+- [torchbox/wagtailmedia](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin
 - [google/temporian](https://github.com/google/temporian) - Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖
 - [royreznik/rexi](https://github.com/royreznik/rexi) - Terminal UI for Regex Testing
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either trio or asyncio
