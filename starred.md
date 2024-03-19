@@ -625,7 +625,7 @@
 - [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 - [bczsalba/Termage](https://github.com/bczsalba/Termage) - Generate SVGs from any Python code, even in your documentation.
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
-- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - 🔮Pythonic App Framework from Future :  Build ⚡Blazing Fast , 🤖Self-Modifying Apps!
+- [dot-agent/nextpy](https://github.com/dot-agent/nextpy) - 🤖Self-Modifying App Framework from Future 🔮!
 - [jawah/niquests](https://github.com/jawah/niquests) - Requests but with HTTP/3, HTTP/2, Multiplexed Connections, System CAs, Certificate Revocation, DNS over HTTPS / TLS / QUIC or UDP, Async, DNSSEC, and (much) pain removed!
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [marcelomaia/commitizen-emoji](https://github.com/marcelomaia/commitizen-emoji) - It's a customization for commitizen
@@ -648,7 +648,7 @@
 - [lpf6/vnpy_akshare](https://github.com/lpf6/vnpy_akshare) - 
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [Zuehlke/ConfZ](https://github.com/Zuehlke/ConfZ) - ConfZ is a configuration management library for Python based on pydantic.
@@ -686,7 +686,7 @@
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [lxgr-linux/pokete](https://github.com/lxgr-linux/pokete) - A terminal based Pokemon like game
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
@@ -702,7 +702,7 @@
 - [anki-code/xonsh-cheatsheet](https://github.com/anki-code/xonsh-cheatsheet) - Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's all-in-one framework for web crawling, scraping, testing, and reporting. Supports pytest. UC Mode provides stealth. Over 200 examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Multi-purpose automation framework: Web crawling, scraping, testing, and reporting. (Python / pytest). UC Mode provides stealth. Over 200 examples.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
