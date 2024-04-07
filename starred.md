@@ -251,7 +251,7 @@
 - [attic-labs/noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database
 - [andeya/pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 - [TimothyYe/ydict](https://github.com/TimothyYe/ydict) - Yet another command-line youdao dictionary for geeks!
-- [Go-zh/tour](https://github.com/Go-zh/tour) - Go 语言官方教程中文版
+- [Go-zh/tour](https://github.com/Go-zh/tour) - 本仓库已弃用，新版移至 website 代码仓库
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Redis Metrics. Supports Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
