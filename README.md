@@ -61,6 +61,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/deepsea514">
+        <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="deepsea514"/>
+      </a>
+      <br />
+      <a href="https://github.com/deepsea514">Deep Sea</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/plh97">
         <img src="https://avatars2.githubusercontent.com/u/14355994" width="100px;" alt="plh97"/>
       </a>
@@ -102,6 +109,8 @@
       <br />
       <a href="https://github.com/684201zan">奔走的小毛驴</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/chance395">
         <img src="https://avatars2.githubusercontent.com/u/19421270" width="100px;" alt="chance395"/>
@@ -109,8 +118,6 @@
       <br />
       <a href="https://github.com/chance395">liang.li</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
