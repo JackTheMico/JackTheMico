@@ -883,7 +883,7 @@
 - [gebiWangshushu/JDCaptchaCrack](https://github.com/gebiWangshushu/JDCaptchaCrack) - Python + Selenium+chromedirver 破解京东登录滑块验证码
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
-- [Fab-Liu/Selenium-Document](https://github.com/Fab-Liu/Selenium-Document) - a document with regard to selenium
+- [ghLcd9dG/Selenium-Document](https://github.com/ghLcd9dG/Selenium-Document) - a document with regard to selenium
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [my8100/scrapydweb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:
@@ -1113,6 +1113,7 @@
 
 ## Shell 
 
+- [lantongxue/clash_for_windows_pkg](https://github.com/lantongxue/clash_for_windows_pkg) - A Windows/macOS/Linux GUI based on Clash
 - [sileshn/ManjaroWSL2](https://github.com/sileshn/ManjaroWSL2) - Manjaro for WSL2 using wsldl
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
