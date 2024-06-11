@@ -48,6 +48,7 @@
 - [V](#v)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [templ](#templ)
 
 ## Astro 
 
@@ -55,7 +56,6 @@
 
 ## Batchfile 
 
-- [lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn) - 适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w+。
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
@@ -1255,6 +1255,10 @@
 
 - [yangxikun/monitor-man](https://github.com/yangxikun/monitor-man) - HTTP API monitor based on postman and newman.
 - [fengT-T/996_list](https://github.com/fengT-T/996_list) - 996 公司展示、讨论
+
+## templ 
+
+- [lzwme/scoop-proxy-cn](https://github.com/lzwme/scoop-proxy-cn) - 适合中国大陆的 Scoop buckets 代理镜像库。从多个开源 bucket 仓库同步更新，包含应用 1.6w+。
 
 
 ## License
