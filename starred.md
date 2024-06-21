@@ -426,7 +426,7 @@
 
 ## Makefile 
 
-- [ogarcia/docker-taskd](https://github.com/ogarcia/docker-taskd) - Taskwarrior is an Open Source Software that manages your TODO list from your command line.
+- [ogarcia/docker-taskd](https://github.com/ogarcia/docker-taskd) - [DEPRECATED] Taskwarrior is an Open Source Software that manages your TODO list from your command line.
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [MrKiven/PyZh](https://github.com/MrKiven/PyZh) - :books: 一起写Python文章，一起看Python文章 - 利用readthedocs的Python技术文章的收集和翻译。
 
