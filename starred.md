@@ -209,7 +209,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
@@ -449,7 +449,7 @@
 - [MortimerGoro/MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 - [ibireme/YYCategories](https://github.com/ibireme/YYCategories) - A set of useful categories for Foundation and UIKit.
 - [netyouli/WHC_Debuger](https://github.com/netyouli/WHC_Debuger) - IOS Debuger super convenient development auxiliary debugger, in a team or maintenance projects according to the UI quickly locate unknown to the Class files, and from the quick fix related bugs .iOS D
-- [wangshiyu13/HLNetworking](https://github.com/wangshiyu13/HLNetworking) - 基于AFNetworking的高阶网络请求管理器
+- [CodeWeaver13/HLNetworking](https://github.com/CodeWeaver13/HLNetworking) - 基于AFNetworking的高阶网络请求管理器
 - [DeftMKJ/MKJElegantChatUI](https://github.com/DeftMKJ/MKJElegantChatUI) - 
 - [siegrainwong/TO-DO](https://github.com/siegrainwong/TO-DO) - 一个无后端待办事项应用，数据用 LeanCloud 进行同步。
 - [XZTLLQ/LQClass](https://github.com/XZTLLQ/LQClass) - 页面常用体验功能：输入框键盘自动补位，点击页面或滑动页面隐藏键盘，加载中背景动画，点击背景刷新，显示无数据背景提示（自定义强度高，支持之定义view，或替换gif），加载失败背景提示。快速集成调用下拉刷新，上拉加载更多（pod 集成MJRefresh）等等常用页面细节处理。能帮助开发人员快速开发页面功能，节约大量细节调控时间！
