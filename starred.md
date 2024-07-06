@@ -581,7 +581,6 @@
 - [GeeTeam/gt3-python-sdk](https://github.com/GeeTeam/gt3-python-sdk) - 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
-- [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 - [android-cn/android-jobs](https://github.com/android-cn/android-jobs) - 2018 年最新内推！我们相信来到这里的，无论工程师还是招聘者都是靠谱的！微信公众号:codekk，
 - [xxc0916/gitbook](https://github.com/xxc0916/gitbook) - 
 - [zhouhuanqiang/LearningIOS](https://github.com/zhouhuanqiang/LearningIOS) - Learning materials of iOS
@@ -1249,6 +1248,7 @@
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [tenfyzhong/CompleteParameter.vim](https://github.com/tenfyzhong/CompleteParameter.vim) - Complete parameter after select the completion. Integration with YouCompleteMe(ycm), deoplete, neocomplete.
 - [fatih/vim-go](https://github.com/fatih/vim-go) - Go development plugin for Vim
+- [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 - [fisadev/fisa-vim-config](https://github.com/fisadev/fisa-vim-config) - my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
 
 ## Vue 
