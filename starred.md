@@ -132,6 +132,7 @@
 ## CSS 
 
 - [Neoteroi/BlackSheep-MVC](https://github.com/Neoteroi/BlackSheep-MVC) - MVC project template for BlackSheep web framework
+- [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 Hugo theme named Dream.
 - [houshanren/hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I
 
 ## Clojure 
@@ -234,7 +235,7 @@
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [HFO4/gameboy.live](https://github.com/HFO4/gameboy.live) - 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [micro/micro](https://github.com/micro/micro) - A Go service development platform
+- [micro/micro](https://github.com/micro/micro) - An API first development platform
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [mylxsw/redis-tui](https://github.com/mylxsw/redis-tui) - A Redis Text-based UI client in CLI
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -271,7 +272,6 @@
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
-- [g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 Hugo theme named Dream.
 - [wangweianger/APubPlat](https://github.com/wangweianger/APubPlat) - Devops自动化部署、堡垒机开源项目、Web Terminal
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 - [Zen-CODE/kivybits](https://github.com/Zen-CODE/kivybits) - Kivy bits and pieces
@@ -771,7 +771,7 @@
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! PySimpleGUI is the top-rated Python application development environment. Launched in 2018 and actively developed, maintained, and supported in 2024. Transforms tkinter, Qt, WxP
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) - Anomaly detection related books, papers, videos, and toolboxes
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
 - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
