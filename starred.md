@@ -20,7 +20,6 @@
 - [Fennel](#fennel)
 - [Go](#go)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -262,6 +261,7 @@
 - [dcu/mongodb_exporter](https://github.com/dcu/mongodb_exporter) - MongoDB exporter for prometheus.io
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
 
 ## HTML 
@@ -282,10 +282,6 @@
 - [M4cs/BabySploit](https://github.com/M4cs/BabySploit) - :baby: BabySploit Beginner Pentesting Toolkit/Framework Written in Python :snake:
 - [qiyeboy/SpiderBook](https://github.com/qiyeboy/SpiderBook) - &lt;&lt;python爬虫开发与项目实战&gt;&gt;书籍配套源码和说明
 - [naosense/2ndhand_house](https://github.com/naosense/2ndhand_house) - 北京二手房价数据分析
-
-## Handlebars 
-
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 
 ## Haskell 
 
