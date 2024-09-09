@@ -610,7 +610,7 @@
 
 ## Python 
 
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your d
 - [SilentNightSound/GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) - Tools and instructions for importing custom models into a certain anime game
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
