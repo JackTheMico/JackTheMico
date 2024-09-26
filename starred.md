@@ -494,6 +494,7 @@
 
 ## Others 
 
+- [sehno/Bug-bounty](https://github.com/sehno/Bug-bounty) - Ressources for bug bounty hunting
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
