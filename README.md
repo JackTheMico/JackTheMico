@@ -96,18 +96,18 @@
       <a href="https://github.com/ibrahimkettaneh">Ibrahim Kettaneh</a>
     </td>
     <td align="center">
-      <a href="https://github.com/LLLLM01">
-        <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
-      </a>
-      <br />
-      <a href="https://github.com/LLLLM01">LLLLM</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/RuixiangS">
         <img src="https://avatars2.githubusercontent.com/u/29591339" width="100px;" alt="RuixiangS"/>
       </a>
       <br />
       <a href="https://github.com/RuixiangS">lumir</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LLLLM01">
+        <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
+      </a>
+      <br />
+      <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
   </tr>
   <tr>
