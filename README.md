@@ -96,12 +96,21 @@
       <a href="https://github.com/ibrahimkettaneh">Ibrahim Kettaneh</a>
     </td>
     <td align="center">
+      <a href="https://github.com/tharindu257">
+        <img src="https://avatars2.githubusercontent.com/u/67211458" width="100px;" alt="tharindu257"/>
+      </a>
+      <br />
+      <a href="https://github.com/tharindu257">Tharindu Dilshan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/RuixiangS">
         <img src="https://avatars2.githubusercontent.com/u/29591339" width="100px;" alt="RuixiangS"/>
       </a>
       <br />
       <a href="https://github.com/RuixiangS">lumir</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/LLLLM01">
         <img src="https://avatars2.githubusercontent.com/u/109198970" width="100px;" alt="LLLLM01"/>
@@ -109,8 +118,6 @@
       <br />
       <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/684201zan">
         <img src="https://avatars2.githubusercontent.com/u/21252908" width="100px;" alt="684201zan"/>
