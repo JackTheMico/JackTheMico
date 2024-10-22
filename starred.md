@@ -191,6 +191,7 @@
 
 ## Go 
 
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -496,6 +497,7 @@
 
 ## Others 
 
+- [hktalent/51Pwn-Platform](https://github.com/hktalent/51Pwn-Platform) - 51Pwn Platform，为黑客而生的大数据搜索引擎，Big data search engine born for hackers
 - [sehno/Bug-bounty](https://github.com/sehno/Bug-bounty) - Ressources for bug bounty hunting
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [nvim-neorg/awesome-neorg](https://github.com/nvim-neorg/awesome-neorg) - A collection of awesome Neorg notes, software and resources
