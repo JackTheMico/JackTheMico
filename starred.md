@@ -304,7 +304,6 @@
 - [knightliao/disconf](https://github.com/knightliao/disconf) - Distributed Configuration Management Platform(分布式配置管理平台)
 - [mopemope/meghanada-server](https://github.com/mopemope/meghanada-server) - A Java IDE Server for your editor. Java IDE-like features to your favourite text editor.
 - [apache/commons-lang](https://github.com/apache/commons-lang) - Apache Commons Lang
-- [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
 - [dyc87112/SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning) - Spring Cloud基础教程，持续连载更新中
 - [eacdy/spring-cloud-study](https://github.com/eacdy/spring-cloud-study) - 开源书《跟我学Spring Cloud》的配套代码。讨论QQ群：731548893
 - [JeffLi1993/springcloud-learning-example](https://github.com/JeffLi1993/springcloud-learning-example) - spring cloud 实践学习案例，是 spring cloud 初学者及核心技术巩固的最佳实践。
@@ -835,7 +834,6 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Skorpyon/aiorestframework](https://github.com/Skorpyon/aiorestframework) - REST Framework for aiohttp
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
-- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
 - [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
