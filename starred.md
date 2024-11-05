@@ -868,7 +868,7 @@
 - [mlvl42/termux_python](https://github.com/mlvl42/termux_python) - Python bindings for Termux API
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [vmware-archive/pytest-salt](https://github.com/vmware-archive/pytest-salt) - PyTest Salt Plugin
-- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+- [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Install Salt from the Salt package repositories here:
 - [vmware-archive/halite](https://github.com/vmware-archive/halite) - DEPRECATED: A client-side web application interface to a running Salt infrastructure
 - [igool/autoSync](https://github.com/igool/autoSync) - auto sync directury to linux server
 - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
