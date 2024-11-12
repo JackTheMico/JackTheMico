@@ -408,6 +408,7 @@
 
 ## Lua 
 
+- [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) - A plugin to search for and insert emojis/kaomojis right from Neovim 😀
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) - free AI completion plugin for neovim
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
@@ -496,6 +497,7 @@
 
 ## Others 
 
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [hktalent/51Pwn-Platform](https://github.com/hktalent/51Pwn-Platform) - 51Pwn Platform，为黑客而生的大数据搜索引擎，Big data search engine born for hackers
 - [sehno/Bug-bounty](https://github.com/sehno/Bug-bounty) - Ressources for bug bounty hunting
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
