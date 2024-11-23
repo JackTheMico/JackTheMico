@@ -144,3 +144,9 @@
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
+
+### Terminal Readme
+
+<picture>
+    <img alt="README Terminal Gif" src="output.gif">
+</picture>
