@@ -6,10 +6,14 @@
 
 <picture>
   <div>
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
-  </div>
-  <div>
     <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
+  </div>
+</picture>
+
+<picture>
+
+  <div>
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
   </div>
 </picture>
 
