@@ -1,24 +1,22 @@
 # forked from https://github.com/ouuan/ouuan/blob/master/.github/workflows/topFollowers.yml
 name: Get Top Followers
-
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: '0 20 15 * *'
   workflow_dispatch:
-
 jobs:
   top-followers:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Setup python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: 3.10
       - name: Install requests
         run: pip install requests
       - name: Update README
-        run: python getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+        run: python getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GH_TOKEN }} README.md
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
@@ -30,4 +28,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
