@@ -4,14 +4,14 @@
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
 </p>
 
-<div>
+<picture>
   <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
   </div>
   <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
   </div>
-</div>
+</picture>
 
 ## Some facts about me
 
