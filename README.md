@@ -4,8 +4,6 @@
   <img src="https://profile-counter.glitch.me/JackTheMico/count.svg" />
 </p>
 
-### Hello pal
-
 <div>
   <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackTheMico&layout=compact&theme=radical"/>
@@ -14,6 +12,8 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=radical"/>
   </div>
 </div>
+
+## Some facts about me
 
 [my awesome stars list](./starred.md)
 
