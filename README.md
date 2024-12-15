@@ -40,6 +40,13 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
+        <a href="https://github.com/ipqwery">
+            <img src="https://avatars2.githubusercontent.com/u/188051590" width="100px;" alt="ipqwery"/>
+        </a>
+        <br />
+        <a href="https://github.com/ipqwery">IPQuery</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/deepsea514">
             <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="deepsea514"/>
         </a>
@@ -52,13 +59,6 @@
         </a>
         <br />
         <a href="https://github.com/plh97">plh</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ipqwery">
-            <img src="https://avatars2.githubusercontent.com/u/188051590" width="100px;" alt="ipqwery"/>
-        </a>
-        <br />
-        <a href="https://github.com/ipqwery">IPQuery</a>
     </td>
     <td align="center">
         <a href="https://github.com/jessuppi">
@@ -82,6 +82,13 @@
         </a>
         <br />
         <a href="https://github.com/surfskyio">Surfsky</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hauntmuskie">
+            <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
+        </a>
+        <br />
+        <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
     </td>
     <td align="center">
         <a href="https://github.com/mishin">
@@ -118,15 +125,15 @@
         <br />
         <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/RuixiangS">
             <img src="https://avatars2.githubusercontent.com/u/29591339" width="100px;" alt="RuixiangS"/>
         </a>
         <br />
-        <a href="https://github.com/RuixiangS">lumir</a>
+        <a href="https://github.com/RuixiangS">Ruixiang Shen</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/tharindu257">
             <img src="https://avatars2.githubusercontent.com/u/67211458" width="100px;" alt="tharindu257"/>
