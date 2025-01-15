@@ -47,6 +47,13 @@
         <a href="https://github.com/ipqwery">IPQuery</a>
     </td>
     <td align="center">
+        <a href="https://github.com/bludnic">
+            <img src="https://avatars2.githubusercontent.com/u/25831507" width="100px;" alt="bludnic"/>
+        </a>
+        <br />
+        <a href="https://github.com/bludnic">bludnic</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/deepsea514">
             <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="deepsea514"/>
         </a>
@@ -61,6 +68,15 @@
         <a href="https://github.com/plh97">plh</a>
     </td>
     <td align="center">
+        <a href="https://github.com/xxspell">
+            <img src="https://avatars2.githubusercontent.com/u/74972395" width="100px;" alt="xxspell"/>
+        </a>
+        <br />
+        <a href="https://github.com/xxspell">hachimaru</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
         <a href="https://github.com/jessuppi">
             <img src="https://avatars2.githubusercontent.com/u/17551083" width="100px;" alt="jessuppi"/>
         </a>
@@ -74,8 +90,13 @@
         <br />
         <a href="https://github.com/SPSEBASTIAAN">Sebastiaan</a>
     </td>
-  </tr>
-  <tr>
+    <td align="center">
+        <a href="https://github.com/hauntmuskie">
+            <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
+        </a>
+        <br />
+        <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
+    </td>
     <td align="center">
         <a href="https://github.com/surfskyio">
             <img src="https://avatars2.githubusercontent.com/u/59265835" width="100px;" alt="surfskyio"/>
@@ -84,11 +105,11 @@
         <a href="https://github.com/surfskyio">Surfsky</a>
     </td>
     <td align="center">
-        <a href="https://github.com/hauntmuskie">
-            <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
+        <a href="https://github.com/Waledsakr">
+            <img src="https://avatars2.githubusercontent.com/u/173066516" width="100px;" alt="Waledsakr"/>
         </a>
         <br />
-        <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
+        <a href="https://github.com/Waledsakr">Waledsakr</a>
     </td>
     <td align="center">
         <a href="https://github.com/mishin">
@@ -104,6 +125,8 @@
         <br />
         <a href="https://github.com/ibrahimkettaneh">Ibrahim Kettaneh</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/linzo21">
             <img src="https://avatars2.githubusercontent.com/u/77612783" width="100px;" alt="linzo21"/>
@@ -125,8 +148,6 @@
         <br />
         <a href="https://github.com/LLLLM01">LLLLM</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/RuixiangS">
             <img src="https://avatars2.githubusercontent.com/u/29591339" width="100px;" alt="RuixiangS"/>
