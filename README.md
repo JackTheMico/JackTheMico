@@ -54,6 +54,13 @@
         <a href="https://github.com/bludnic">bludnic</a>
     </td>
     <td align="center">
+        <a href="https://github.com/xxspell">
+            <img src="https://avatars2.githubusercontent.com/u/74972395" width="100px;" alt="xxspell"/>
+        </a>
+        <br />
+        <a href="https://github.com/xxspell">hachimaru</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/deepsea514">
             <img src="https://avatars2.githubusercontent.com/u/74522790" width="100px;" alt="deepsea514"/>
         </a>
@@ -66,13 +73,6 @@
         </a>
         <br />
         <a href="https://github.com/plh97">plh</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/xxspell">
-            <img src="https://avatars2.githubusercontent.com/u/74972395" width="100px;" alt="xxspell"/>
-        </a>
-        <br />
-        <a href="https://github.com/xxspell">hachimaru</a>
     </td>
   </tr>
   <tr>
@@ -89,13 +89,6 @@
         </a>
         <br />
         <a href="https://github.com/SPSEBASTIAAN">Sebastiaan</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hauntmuskie">
-            <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
-        </a>
-        <br />
-        <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
     </td>
     <td align="center">
         <a href="https://github.com/surfskyio">
@@ -125,8 +118,6 @@
         <br />
         <a href="https://github.com/ibrahimkettaneh">Ibrahim Kettaneh</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/linzo21">
             <img src="https://avatars2.githubusercontent.com/u/77612783" width="100px;" alt="linzo21"/>
@@ -134,6 +125,8 @@
         <br />
         <a href="https://github.com/linzo21">linzo21</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/chance395">
             <img src="https://avatars2.githubusercontent.com/u/19421270" width="100px;" alt="chance395"/>
