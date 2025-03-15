@@ -40,13 +40,6 @@
         <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ipqwery">
-            <img src="https://avatars2.githubusercontent.com/u/188051590" width="100px;" alt="ipqwery"/>
-        </a>
-        <br />
-        <a href="https://github.com/ipqwery">IPQuery</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bludnic">
             <img src="https://avatars2.githubusercontent.com/u/25831507" width="100px;" alt="bludnic"/>
         </a>
@@ -66,6 +59,13 @@
         </a>
         <br />
         <a href="https://github.com/deepsea514">Deep Sea</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ipqwery">
+            <img src="https://avatars2.githubusercontent.com/u/188051590" width="100px;" alt="ipqwery"/>
+        </a>
+        <br />
+        <a href="https://github.com/ipqwery">IPQuery</a>
     </td>
     <td align="center">
         <a href="https://github.com/plh97">
@@ -105,6 +105,13 @@
         <a href="https://github.com/Waledsakr">Waledsakr</a>
     </td>
     <td align="center">
+        <a href="https://github.com/BirdeeHub">
+            <img src="https://avatars2.githubusercontent.com/u/85372418" width="100px;" alt="BirdeeHub"/>
+        </a>
+        <br />
+        <a href="https://github.com/BirdeeHub">Birdee</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mishin">
             <img src="https://avatars2.githubusercontent.com/u/2354218" width="100px;" alt="mishin"/>
         </a>
@@ -118,13 +125,6 @@
         <br />
         <a href="https://github.com/ibrahimkettaneh">Ibrahim Kettaneh</a>
     </td>
-    <td align="center">
-        <a href="https://github.com/linzo21">
-            <img src="https://avatars2.githubusercontent.com/u/77612783" width="100px;" alt="linzo21"/>
-        </a>
-        <br />
-        <a href="https://github.com/linzo21">linzo21</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -133,6 +133,13 @@
         </a>
         <br />
         <a href="https://github.com/chance395">liang.li</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/linzo21">
+            <img src="https://avatars2.githubusercontent.com/u/77612783" width="100px;" alt="linzo21"/>
+        </a>
+        <br />
+        <a href="https://github.com/linzo21">linzo21</a>
     </td>
     <td align="center">
         <a href="https://github.com/LLLLM01">
