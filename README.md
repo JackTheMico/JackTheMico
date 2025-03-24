@@ -32,6 +32,8 @@ things about me.
 
 ## Metrics about me
 
+<!--START_SECTION:activity-->
+
 ![Jack Wenyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=dracula)
 
 ![Metrics](./github-metrics.svg)

@@ -36,7 +36,7 @@ jobs:
           # Language Activity
           plugin_languages: yes
           # Lines of code changed
-          plugin.lines: yes
+          plugin_lines: yes
           # Follow-up of issues and pull requests
           plugin_followup: yes
           # Introduction
@@ -56,7 +56,7 @@ jobs:
           plugin_rss_source: https://jackwenyoung.com/rss.xml
           # website screenshot
           plugin_screenshot: yes
-          plugin_screenshot_title: "My Blog Site"
+          plugin_screenshot_title: "jackwenyoung.com"
           plugin_screenshot_url: https://jackwenyoung.com/en
           # fortune
           plugin_fortune: yes
