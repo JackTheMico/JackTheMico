@@ -24,7 +24,7 @@ jobs:
           user: JackTheMico
           output_action: commit
           committer_branch: main
-          committer_branch: "update metrics"
+          committer_message: "Regular update metrics"
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
@@ -57,4 +57,3 @@ jobs:
           plugin_fortune: yes
           # traffic
           plugin_traffic: yes
-          
