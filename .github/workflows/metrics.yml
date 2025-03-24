@@ -8,12 +8,12 @@ on:
     push:
       branches:
         - main
+  permissions:
+    contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: lowlighter/metrics@v3.34
         with:
@@ -72,6 +72,6 @@ jobs:
       - name: Pull My blogs
         uses: gautamkrishnar/blog-post-workflow@1.8.9
         with:
-          feed_list: "https//jackwenyoung.com/rss.xml"
+          feed_list: "https://jackwenyoung.com/rss.xml"
           max_post_count: 6
           gh_token: ${{ secrets.GH_TOKEN }}
