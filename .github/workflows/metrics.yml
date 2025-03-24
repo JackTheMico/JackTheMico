@@ -1,9 +1,6 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  push:
-    branches:
-      - main
   # Schedule updates (each 72 hours)
   schedule: [{ cron: "0 0/72 * * *" }]
   # Lines below let you run workflow manually and on each commit
