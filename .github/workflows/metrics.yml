@@ -60,7 +60,13 @@ jobs:
           plugin_screenshot_url: https://jackwenyoung.com/en
           # fortune
           plugin_fortune: yes
-      - name: GitHub - Activity - Readme
-        uses: jamesgeorge007/github-activity-readme@v0.4.5
+  update-readme:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.gh_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
