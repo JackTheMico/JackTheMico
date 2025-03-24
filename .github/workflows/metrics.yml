@@ -29,7 +29,6 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
           commits_authoring: "Jack Wenyoung, jackwenyoung"
-
           # Plugins
           # commits calendar
           plugin_isocalendar: yes
@@ -61,3 +60,7 @@ jobs:
           plugin_screenshot_url: https://jackwenyoung.com/en
           # fortune
           plugin_fortune: yes
+      - name: GitHub - Activity - Readme
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.gh_TOKEN }}
