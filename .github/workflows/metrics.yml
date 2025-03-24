@@ -52,7 +52,7 @@ jobs:
           # traffic
           plugin_traffic: yes
           # Rss
-          plugin_rss: yes
+          plugin_rss: no
           plugin_rss_source: https://jackwenyoung.com/rss.xml
           # website screenshot
           plugin_screenshot: yes
@@ -60,15 +60,13 @@ jobs:
           plugin_screenshot_url: https://jackwenyoung.com/en
           # fortune
           plugin_fortune: yes
-  update-readme:
-    name: Update this repo's README with recent activity
+  update-blog:
+    name: Update latest blogs
     runs-on: ubuntu-latest
     if: ${{ always() }} # Make this always run
     needs: github-metrics
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: imskr/readme-update-actions@v2.1
+        with:
+          rss_list: "https//jackwenyoung.com/rss.xml"

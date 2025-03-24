@@ -28,12 +28,23 @@ things about me.
 
 ## [Please Check out my website to get my PDF Resume](https://jackwenyoung.com)
 
-[Jack Wenyoung's Blog Site](https://jackwenyoung.com)
+### [jackwenyoung.com](https://jackwenyoung.com)
+
+<!-- BLOG-LIST-START -->
+<!-- BLOG-LIST-END -->
 
 ## Metrics about me
 
-<!--START_SECTION:activity-->
-
-![Jack Wenyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=dracula)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=ambient_gradient"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true" />
+</picture>
 
 ![Metrics](./github-metrics.svg)
