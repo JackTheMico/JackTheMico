@@ -1,4 +1,4 @@
-# Hi, Jack here 🤪
+# Hi, Jack here 😺
 
 ## My Blog Site
 
@@ -6,4 +6,6 @@
 
 ## Metrics
 
-![Jack Metrics](./github-metrics.svg)
+![Jack Wenyoung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackTheMico&show_icons=true&theme=dracula)
+
+![Metrics](./github-metrics.svg)
