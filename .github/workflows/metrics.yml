@@ -46,14 +46,18 @@ jobs:
           # Wakatime
           plugin_wakatime: yes
           plugin_wakatime_days: 365
-          plugin_wakatime_token: ${{ secrets.WAKATIME_AIP_KEY}}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY}}
           # Rss
           plugin_rss: yes
           plugin_rss_source: https://jackwenyoung.com/rss.xml
-          # TODO: LeetCode
-          plugin_leetcode: no
+          # website screenshot
+          plugin_screenshot: yes
+          plugin_screenshot_title: "My Blog Site"
+          plugin_screenshot_url: https://jackwenyoung.com/rss.xml
+          # LeetCode
+          plugin_leetcode: yes
           plugin_leetcode_user: jackwenyoung
-          # fortune
-          plugin_fortune: yes
           # traffic
           plugin_traffic: yes
+          # fortune
+          plugin_fortune: yes
