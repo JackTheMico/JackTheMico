@@ -60,13 +60,18 @@ jobs:
           plugin_screenshot_url: https://jackwenyoung.com/en
           # fortune
           plugin_fortune: yes
+  # https://github.com/marketplace/actions/blog-post-workflow
   update-blog:
     name: Update latest blogs
     runs-on: ubuntu-latest
     if: ${{ always() }} # Make this always run
     needs: github-metrics
     steps:
-      - uses: actions/checkout@v4
-      - uses: imskr/readme-update-actions@v2.1
+      - name: Check Out
+        uses: actions/checkout@v4
+      - name: Pull My blogs
+        uses: gautamkrishnar/blog-post-workflow@1.8.9
         with:
-          rss_list: "https//jackwenyoung.com/rss.xml"
+          feed_list: "https//jackwenyoung.com/rss.xml"
+          max_post_count: 6
+          gh_token: ${{ secrets.GH_TOKEN }}

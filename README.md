@@ -28,10 +28,10 @@ things about me.
 
 ## [Please Check out my website to get my PDF Resume](https://jackwenyoung.com)
 
-### [jackwenyoung.com](https://jackwenyoung.com)
+### Latest Blogs Posts [jackwenyoung.com](https://jackwenyoung.com)
 
-<!-- BLOG-LIST-START -->
-<!-- BLOG-LIST-END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Metrics about me
 
