@@ -31,12 +31,12 @@ things about me.
 ### Latest Blogs Posts [jackwenyoung.com](https://jackwenyoung.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the sops.nix Key Management Module in NixOS](https://jackwenyoung.com/en/blog/nixos-sops)
+- [NixOS 中密钥管理模块sops.nix的使用](https://jackwenyoung.com/zh/blog/nixos-sops)
 - [Django Interview Manual](https://jackwenyoung.com/en/blog/django-interview)
 - [Django 面试手册](https://jackwenyoung.com/zh/blog/django-interview)
 - [Ideas for Programmers on Generating Passive Income](https://jackwenyoung.com/en/blog/passive-incoming)
 - [关于程序员如何获取被动收入的想法](https://jackwenyoung.com/zh/blog/passive-incoming)
-- [Arch Linux Upgrade Issue](https://jackwenyoung.com/en/blog/archlinux-upgrade)
-- [Arch Linux 升级问题记录](https://jackwenyoung.com/zh/blog/archlinux-upgrade)
 <!-- BLOG-POST-LIST:END -->
 
 ## Metrics about me
