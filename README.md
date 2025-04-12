@@ -31,12 +31,12 @@ things about me.
 ### Latest Blogs Posts [jackwenyoung.com](https://jackwenyoung.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Use yt-dlp to download music from Bilibili](https://jackwenyoung.com/en/blog/bili-music-download)
+- [使用yt-dlp从Bilibili上下载音乐](https://jackwenyoung.com/zh/blog/bili-music-download)
 - [My NixOS Configuration](https://jackwenyoung.com/en/blog/hydejoyer)
 - [我的NixOS配置](https://jackwenyoung.com/zh/blog/hydejoyer)
 - [Using the sops.nix Key Management Module in NixOS](https://jackwenyoung.com/en/blog/nixos-sops)
 - [NixOS 中密钥管理模块sops.nix的使用](https://jackwenyoung.com/zh/blog/nixos-sops)
-- [Django Interview Manual](https://jackwenyoung.com/en/blog/django-interview)
-- [Django 面试手册](https://jackwenyoung.com/zh/blog/django-interview)
 <!-- BLOG-POST-LIST:END -->
 
 ## Metrics about me
