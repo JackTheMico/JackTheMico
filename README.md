@@ -31,12 +31,12 @@ things about me.
 ### Latest Blogs Posts [jackwenyoung.com](https://jackwenyoung.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue UI Comparison](https://jackwenyoung.com/en/blog/vue-ui-compare)
+- [Vue UI 库对比](https://jackwenyoung.com/zh/blog/vue-ui-compare)
+- [Vuetify files structure](https://jackwenyoung.com/en/blog/vuetify)
+- [Vuetify 文件结构](https://jackwenyoung.com/zh/blog/vuetify)
 - [Use yt-dlp to download music from Bilibili](https://jackwenyoung.com/en/blog/bili-music-download)
 - [使用yt-dlp从Bilibili上下载音乐](https://jackwenyoung.com/zh/blog/bili-music-download)
-- [My NixOS Configuration](https://jackwenyoung.com/en/blog/hydejoyer)
-- [我的NixOS配置](https://jackwenyoung.com/zh/blog/hydejoyer)
-- [Using the sops.nix Key Management Module in NixOS](https://jackwenyoung.com/en/blog/nixos-sops)
-- [NixOS 中密钥管理模块sops.nix的使用](https://jackwenyoung.com/zh/blog/nixos-sops)
 <!-- BLOG-POST-LIST:END -->
 
 ## Metrics about me
